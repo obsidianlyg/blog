@@ -2,35 +2,35 @@
 <rss version="2.0">
     <channel>
         <title>回梦游春</title>
+        <subtitle></subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
+        <author>
+          <name>Obsidian</name>
+        </author>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Thu, 23 Dec 2021 21:05:33 +0800</pubDate>
         <lastBuildDate>Thu, 23 Dec 2021 21:05:33 +0800</lastBuildDate>
-        <category>Hexo</category>
-        <category>教程</category>
-        <category>Foo</category>
-        <category>Bar</category>
-        <category>Baz</category>
         <item>
-            <guid isPermalink="true">http://example.com/2021/12/23/test-1/</guid>
+            <guid isPermalink="true">http://example.com/test-1/</guid>
             <title>test</title>
-            <link>http://example.com/2021/12/23/test-1/</link>
+            <link>http://example.com/test-1/</link>
             <pubDate>Thu, 23 Dec 2021 21:05:33 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;测试&lt;/p&gt;
 &lt;h3 id=&#34;测试&#34;&gt;&lt;a href=&#34;#测试&#34; class=&#34;headerlink&#34; title=&#34;测试&#34;&gt;&lt;/a&gt;测试&lt;/h3&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2021/12/23/test/</guid>
+            <guid isPermalink="true">http://example.com/test/</guid>
             <title>test</title>
-            <link>http://example.com/2021/12/23/test/</link>
+            <link>http://example.com/test/</link>
             <pubDate>Thu, 23 Dec 2021 21:01:04 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2021/12/23/hello-world/</guid>
+            <guid isPermalink="true">http://example.com/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2021/12/23/hello-world/</link>
+            <link>http://example.com/hello-world/</link>
             <pubDate>Thu, 23 Dec 2021 20:43:15 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -48,11 +48,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</link>
-            <category>Hexo</category>
-            <category>教程</category>
+            <link>http://example.com/computer-science/note/theme-shoka-doc/special/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="二进制杂谈" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
+            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;&lt;strong&gt;🦄特殊功能&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -67,14 +70,48 @@
 &lt;ol&gt;
 &lt;li&gt;使用 &lt;code&gt;links&lt;/code&gt;  标签块，包围 &lt;code&gt;yml&lt;/code&gt;  语法书写的内容，字段包括&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;–|--|–&lt;br&gt;
- &lt;code&gt;site&lt;/code&gt;  | 站点名称 | 必填&lt;br&gt;
- &lt;code&gt;owner&lt;/code&gt;  | 管理员名字 | 可选，默认为 &lt;code&gt;site&lt;/code&gt;  的值&lt;br&gt;
- &lt;code&gt;url&lt;/code&gt;  | 站点链接 | 必填&lt;br&gt;
- &lt;code&gt;desc&lt;/code&gt;  | 站点描述 | 可选，默认为 &lt;code&gt;url&lt;/code&gt;  的值&lt;br&gt;
- &lt;code&gt;image&lt;/code&gt;  | 站点图片 | 可选，默认为 &lt;code&gt;images/404.png&lt;/code&gt; &lt;br&gt;
- &lt;code&gt;color&lt;/code&gt;  | 方块颜色 | 可选，默认为 &lt;code&gt;#666&lt;/code&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;amp;#123;% links %&amp;amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- site: #站点名称&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  owner: #管理员名字&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  url: #站点网址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  desc: #简短描述&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  image: #一张图片&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  color: #颜色代码&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;amp;#123;% endlinks %&amp;amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;代码&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;th&gt;选择&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;site&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;站点名称&lt;/td&gt;
+&lt;td&gt;必填&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;owner&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;管理员名字&lt;/td&gt;
+&lt;td&gt;可选，默认为 &lt;code&gt;site&lt;/code&gt;  的值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;url&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;站点链接&lt;/td&gt;
+&lt;td&gt;必填&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;desc&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;站点描述&lt;/td&gt;
+&lt;td&gt;可选，默认为 &lt;code&gt;url&lt;/code&gt;  的值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;image&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;站点图片&lt;/td&gt;
+&lt;td&gt;可选，默认为 &lt;code&gt;images/404.png&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;color&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;方块颜色&lt;/td&gt;
+&lt;td&gt;可选，默认为 &lt;code&gt;#666&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;amp;#123;% links %&amp;amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- site: #站点名称&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  owner: #管理员名字&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  url: #站点网址&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  desc: #简短描述&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  image: #一张图片&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  color: #颜色代码&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;amp;#123;% endlinks %&amp;amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;举个栗子：&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&amp;amp;#123;% links %&amp;amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- site: 優萌初華&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  owner: 霜月琉璃&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  url: https://shoka.lostyu.me&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  desc: 琉璃的医学 &amp;amp; 编程笔记&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  image: https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  color: &amp;quot;#e9546b&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- site: 優萌初華&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  owner: 霜月琉璃&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  url: https://shoka.lostyu.me&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  image: images/avatar.jpg&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- site: 優萌初華&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  url: https://shoka.lostyu.me&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  desc: 琉璃的医学 &amp;amp; 编程笔记&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;  color: &amp;quot;#9d5b8b&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;amp;#123;% endlinks %&amp;amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg&#34;&gt;&lt;/span&gt;
@@ -542,11 +579,14 @@ c-16-25.333-24-45-24-59z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/display/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/note/theme-shoka-doc/display/</guid>
             <title>Step.3 界面显示</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/display/</link>
-            <category>Hexo</category>
-            <category>教程</category>
+            <link>http://example.com/computer-science/note/theme-shoka-doc/display/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="二进制杂谈" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
+            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;&lt;strong&gt;🌈界面显示&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -693,11 +733,14 @@ c-16-25.333-24-45-24-59z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/config/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/note/theme-shoka-doc/config/</guid>
             <title>Step.2 基本配置</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/config/</link>
-            <category>Hexo</category>
-            <category>教程</category>
+            <link>http://example.com/computer-science/note/theme-shoka-doc/config/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="二进制杂谈" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
+            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -830,11 +873,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/note/theme-shoka-doc/dependents/</guid>
             <title>Step.1 依赖插件</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/dependents/</link>
-            <category>Hexo</category>
-            <category>教程</category>
+            <link>http://example.com/computer-science/note/theme-shoka-doc/dependents/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="二进制杂谈" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
+            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;&lt;strong&gt;💌依赖插件&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -933,133 +979,90 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;keywords:&lt;/span&gt; &lt;span class=&#34;comment&#34;&gt;#站点关键词，用“,”分隔&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;feed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;limit:&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;20&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;order_by:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;-date&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;tag_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;category_dir:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;false&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;rss:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/rss.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;rss.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;atom:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/atom.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;atom.xml&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attr&#34;&gt;jsonFeed:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;enable:&lt;/span&gt; &lt;span class=&#34;literal&#34;&gt;true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;template:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;themes/shoka/layout/_alternate/json.ejs&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;attr&#34;&gt;output:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;&amp;quot;feed.json&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/note/theme-shoka-doc/</guid>
             <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-            <link>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/</link>
-            <category>Hexo</category>
-            <category>教程</category>
+            <link>http://example.com/computer-science/note/theme-shoka-doc/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="二进制杂谈" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/" />
+            <category term="Theme Shoka Documentation" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%9D%82%E8%B0%88/Theme-Shoka-Documentation/" />
+            <category term="Hexo" scheme="http://example.com/tags/Hexo/" />
+            <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;:::info&lt;br&gt;跳票N久终于更新的简单的使用说明&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;hexo-theme-shoka&lt;/span&gt; ：本博客自用的主题&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt;：配套的 markdown 渲染器&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt;：配套的markdown渲染器&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;已经支持 hexo 5。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;因博主被学业和工作掏空，本项目已停滞更新大半年，问题也无法及时回复大家，这个悲惨状态可能还要持续半年的样子。&lt;/p&gt;
-&lt;p&gt;有很多热心小伙伴在评论区或者项目 issue 帮忙回答问题，非常非常感谢！&lt;/p&gt;
-&lt;p&gt;本项目是完全开源的，也有做一些 example 示例，大家可以随便拿随便改。&lt;br&gt;
-但是很抱歉，博主我暂时不能提供更多的支持，这个写的乱七八糟的文档，暂时也没有时间把它写得更专业一些。&lt;br&gt;
-非常对不住大家！&lt;/p&gt;
-&lt;p&gt;iconfont 的添加申请，我看到留言后会尽快加上，希望各位小伙伴能看到。&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note warning&#34;&gt;
-&lt;p&gt;当前版本更新至 0.2.5，&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95&#34;&gt;更新记录点此&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;🚀快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;设计缘由&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#设计缘由&#34;&gt;#&lt;/a&gt; 设计缘由&lt;/h1&gt;
-&lt;p&gt;前几年在 Bear 和 Evernote 上整理了大量笔记，非常喜欢 Bear 默认的 markdown 渲染样式。&lt;br&gt;
-后来因为换了安卓手机，用不了 Bear，四处搜寻替代品，没有满意的。&lt;br&gt;
-然后阴差阳错知道了 Hexo，又得知 Github 也可以免费建私有仓库了，故再次转移阵地到了自建博客，并部署在 Github Pages。&lt;/p&gt;
-&lt;p&gt;因为这个博客是用来记笔记的，故起名 &lt;code&gt;书架&lt;/code&gt; 。&lt;br&gt;
-对应的主题即 &lt;code&gt;Theme.Shoka&lt;/code&gt; ，可以说是为了笔记阅读而生的主题。&lt;br&gt;
-样式严重参考 Bear，部分代码严重参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQv&#34;&gt; NexT&lt;/span&gt;。&lt;/p&gt;
-&lt;p&gt;Hexo 的默认及常用渲染器均使用 &lt;code&gt;highlight.js&lt;/code&gt;  进行代码高亮，而我喜欢 &lt;code&gt;Prism.js&lt;/code&gt; ，故重写了一个渲染器配合主题食用。&lt;br&gt;
-渲染器取名 &lt;code&gt;multi&lt;/code&gt; ，因为集成了很多很多很多 &lt;code&gt;markdown-it&lt;/code&gt;  插件，以及压缩静态文件的功能。&lt;br&gt;
-（最新版的默认渲染器也支持 &lt;code&gt;Prism.js&lt;/code&gt;  了，可喜可贺，但不想用，哈哈哈哈哈哈哈&lt;/p&gt;
-&lt;p&gt;墙内 Github Pages 访问速度时而感人，所以用了&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5qc2RlbGl2ci5jb20v&#34;&gt; jsDelivr&lt;/span&gt; 加速，主要是因为它可以按需合并依赖文件。&lt;/p&gt;
-&lt;h1 id=&#34;快速安装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速安装&#34;&gt;#&lt;/a&gt; 快速安装&lt;/h1&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# cd your-blog&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;git &lt;span class=&#34;built_in&#34;&gt;clone&lt;/span&gt; https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;打开主题目录，内有 &lt;code&gt;example&lt;/code&gt;  文件夹，提供了配置文件的 demo 供参考。&lt;/p&gt;
-&lt;h1 id=&#34;安装依赖插件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#安装依赖插件&#34;&gt;#&lt;/a&gt; 安装依赖插件&lt;/h1&gt;
-&lt;p&gt;在应用主题之前，必须至少安装 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt; 渲染插件 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;已经支持hexo 5。&lt;br&gt;:::&lt;/p&gt;
+&lt;p&gt;:::info&lt;br&gt;因博主被学业和工作掏空，本项目已停滞更新大半年，问题也无法及时回复大家，这个悲惨状态可能还要持续半年的样子。&lt;/p&gt;
+&lt;p&gt;有很多热心小伙伴在评论区或者项目issue帮忙回答问题，非常非常感谢！&lt;/p&gt;
+&lt;p&gt;本项目是完全开源的，也有做一些example示例，大家可以随便拿随便改。&lt;br&gt;但是很抱歉，博主我暂时不能提供更多的支持，这个写的乱七八糟的文档，暂时也没有时间把它写得更专业一些。&lt;br&gt;非常对不住大家！&lt;/p&gt;
+&lt;p&gt;iconfont的添加申请，我看到留言后会尽快加上，希望各位小伙伴能看到。&lt;br&gt;:::&lt;/p&gt;
+&lt;p&gt;:::warning&lt;br&gt;当前版本更新至 0.2.5，&lt;a href=&#34;#%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95&#34;&gt;更新记录点此&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;:::&lt;/p&gt;
+&lt;p&gt;:::primary&lt;br&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;&lt;strong&gt;:rocket:快速开始&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;:love_letter:依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;:pushpin:基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;:rainbow:界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;:unicorn:特殊功能&lt;/a&gt;&lt;br&gt;:::&lt;/p&gt;
+&lt;h1 id=&#34;设计缘由&#34;&gt;&lt;a href=&#34;#设计缘由&#34; class=&#34;headerlink&#34; title=&#34;设计缘由&#34;&gt;&lt;/a&gt;设计缘由&lt;/h1&gt;&lt;p&gt;前几年在Bear和Evernote上整理了大量笔记，非常喜欢Bear默认的markdown渲染样式。&lt;br&gt;后来因为换了安卓手机，用不了Bear，四处搜寻替代品，没有满意的。&lt;br&gt;然后阴差阳错知道了Hexo，又得知Github也可以免费建私有仓库了，故再次转移阵地到了自建博客，并部署在Github Pages。&lt;/p&gt;
+&lt;p&gt;因为这个博客是用来记笔记的，故起名&lt;code&gt;书架&lt;/code&gt;。&lt;br&gt;对应的主题即&lt;code&gt;Theme.Shoka&lt;/code&gt;，可以说是为了笔记阅读而生的主题。&lt;br&gt;样式严重参考Bear，部分代码严重参考&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQv&#34;&gt;NexT&lt;/span&gt;。&lt;/p&gt;
+&lt;p&gt;Hexo的默认及常用渲染器均使用&lt;code&gt;highlight.js&lt;/code&gt;进行代码高亮，而我喜欢&lt;code&gt;Prism.js&lt;/code&gt;，故重写了一个渲染器配合主题食用。&lt;br&gt;渲染器取名&lt;code&gt;multi&lt;/code&gt;，因为集成了很多很多很多&lt;code&gt;markdown-it&lt;/code&gt;插件，以及压缩静态文件的功能。&lt;br&gt;（最新版的默认渲染器也支持&lt;code&gt;Prism.js&lt;/code&gt;了，可喜可贺，但不想用，哈哈哈哈哈哈哈&lt;/p&gt;
+&lt;p&gt;墙内Github Pages访问速度时而感人，所以用了&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5qc2RlbGl2ci5jb20v&#34;&gt;jsDelivr&lt;/span&gt;加速，主要是因为它可以按需合并依赖文件。&lt;/p&gt;
+&lt;h1 id=&#34;快速安装&#34;&gt;&lt;a href=&#34;#快速安装&#34; class=&#34;headerlink&#34; title=&#34;快速安装&#34;&gt;&lt;/a&gt;快速安装&lt;/h1&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# cd your-blog&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;git &lt;span class=&#34;built_in&#34;&gt;clone&lt;/span&gt; https://github.com/amehime/hexo-theme-shoka.git ./themes/shoka&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;打开主题目录，内有&lt;code&gt;example&lt;/code&gt;文件夹，提供了配置文件的demo供参考。&lt;/p&gt;
+&lt;h1 id=&#34;安装依赖插件&#34;&gt;&lt;a href=&#34;#安装依赖插件&#34; class=&#34;headerlink&#34; title=&#34;安装依赖插件&#34;&gt;&lt;/a&gt;安装依赖插件&lt;/h1&gt;&lt;p&gt;在应用主题之前，必须至少安装 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by1yZW5kZXJlci1tdWx0aS1tYXJrZG93bi1pdA==&#34;&gt;hexo-renderer-multi-markdown-it&lt;/span&gt; 渲染插件 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1hdXRvcHJlZml4ZXI=&#34;&gt;hexo-autoprefixer&lt;/span&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;dependents/&#34;&gt;插件安装与配置教程戳此&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;应用主题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#应用主题&#34;&gt;#&lt;/a&gt; 应用主题&lt;/h1&gt;
-&lt;h2 id=&#34;修改站点配置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#修改站点配置&#34;&gt;#&lt;/a&gt; 修改站点配置&lt;/h2&gt;
-&lt;p&gt;修改站点配置文件 &lt;code&gt;&amp;lt;root&amp;gt;/_config.yml&lt;/code&gt; ，把主题改为  &lt;code&gt;shoka&lt;/code&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;theme:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;shoka&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;修改主题配置&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#修改主题配置&#34;&gt;#&lt;/a&gt; 修改主题配置&lt;/h2&gt;
-&lt;p&gt;主题配置的所有参数在 &lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/_config.yml&lt;/code&gt;  文件中。&lt;/p&gt;
-&lt;p&gt;为了方便主题升级，请在根目录新建一个 yml 文件，命名为 &lt;code&gt;_config.shoka.yml&lt;/code&gt; 。&lt;br&gt;
-也就是说，所有主题的自定义配置均保存于 &lt;code&gt;&amp;lt;root&amp;gt;/_config.shoka.yml&lt;/code&gt;  文件。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;config/&#34;&gt;主题的基础配置可以参考这里&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;display/&#34;&gt;界面显示相关的配置参考这里&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;更新记录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#更新记录&#34;&gt;#&lt;/a&gt; 更新记录&lt;/h1&gt;
-&lt;p&gt;标签含义：&lt;br&gt;
-❗ 需要手动操作的更新信息&lt;br&gt;
-⚠️ 需要注意的更新信息&lt;br&gt;
-🔧 已修复的问题&lt;br&gt;
-⌛ TODO&lt;/p&gt;
-&lt;h2 id=&#34;024-025&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#024-025&#34;&gt;#&lt;/a&gt; 0.2.4 👉 0.2.5&lt;/h2&gt;
-&lt;p&gt;💡  避免直接修改主题文件，添加各种自定义：&lt;/p&gt;
+&lt;h1 id=&#34;应用主题&#34;&gt;&lt;a href=&#34;#应用主题&#34; class=&#34;headerlink&#34; title=&#34;应用主题&#34;&gt;&lt;/a&gt;应用主题&lt;/h1&gt;&lt;h2 id=&#34;修改站点配置&#34;&gt;&lt;a href=&#34;#修改站点配置&#34; class=&#34;headerlink&#34; title=&#34;修改站点配置&#34;&gt;&lt;/a&gt;修改站点配置&lt;/h2&gt;&lt;p&gt;修改站点配置文件&lt;code&gt;&amp;lt;root&amp;gt;/_config.yml&lt;/code&gt;，把主题改为 &lt;code&gt;shoka&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;attr&#34;&gt;theme:&lt;/span&gt; &lt;span class=&#34;string&#34;&gt;shoka&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;修改主题配置&#34;&gt;&lt;a href=&#34;#修改主题配置&#34; class=&#34;headerlink&#34; title=&#34;修改主题配置&#34;&gt;&lt;/a&gt;修改主题配置&lt;/h2&gt;&lt;p&gt;主题配置的所有参数在&lt;code&gt;&amp;lt;root&amp;gt;/themes/shoka/_config.yml&lt;/code&gt;文件中。&lt;/p&gt;
+&lt;p&gt;为了方便主题升级，请在根目录新建一个yml文件，命名为&lt;code&gt;_config.shoka.yml&lt;/code&gt;。&lt;br&gt;也就是说，所有主题的自定义配置均保存于&lt;code&gt;&amp;lt;root&amp;gt;/_config.shoka.yml&lt;/code&gt;文件。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;config/&#34;&gt;主题的基础配置可以参考这里&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;display/&#34;&gt;界面显示相关的配置参考这里&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;更新记录&#34;&gt;&lt;a href=&#34;#更新记录&#34; class=&#34;headerlink&#34; title=&#34;更新记录&#34;&gt;&lt;/a&gt;更新记录&lt;/h1&gt;&lt;p&gt;标签含义：&lt;br&gt;❗ 需要手动操作的更新信息&lt;br&gt;⚠️ 需要注意的更新信息&lt;br&gt;🔧 已修复的问题&lt;br&gt;⌛ TODO&lt;/p&gt;
+&lt;h2 id=&#34;0-2-4-👉-0-2-5&#34;&gt;&lt;a href=&#34;#0-2-4-👉-0-2-5&#34; class=&#34;headerlink&#34; title=&#34;0.2.4 👉 0.2.5&#34;&gt;&lt;/a&gt;0.2.4 👉 0.2.5&lt;/h2&gt;&lt;p&gt;💡  避免直接修改主题文件，添加各种自定义：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A1%B5%E9%9D%A2%E9%85%8D%E8%89%B2&#34;&gt;样式&lt;/a&gt;：包括配色、&lt;a href=&#34;config/#iconfont%E5%9B%BE%E6%A0%87&#34;&gt;icon&lt;/a&gt;、其他自定义样式&lt;/li&gt;
 &lt;li&gt;图片：包括&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98%E5%9B%BE%E7%89%87&#34;&gt;主题图片&lt;/a&gt;、&lt;a href=&#34;config/#%E9%9A%8F%E6%9C%BA%E5%9B%BE%E5%BA%93&#34;&gt;随机图库&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;🔧 修复一些 BUG&lt;/p&gt;
-&lt;h2 id=&#34;023-024&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#023-024&#34;&gt;#&lt;/a&gt; 0.2.3 👉 0.2.4&lt;/h2&gt;
-&lt;p&gt;⚠️ &lt;strong&gt;评论功能更新&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;🔧 修复一些BUG&lt;/p&gt;
+&lt;h2 id=&#34;0-2-3-👉-0-2-4&#34;&gt;&lt;a href=&#34;#0-2-3-👉-0-2-4&#34; class=&#34;headerlink&#34; title=&#34;0.2.3 👉 0.2.4&#34;&gt;&lt;/a&gt;0.2.3 👉 0.2.4&lt;/h2&gt;&lt;p&gt;⚠️ &lt;strong&gt;评论功能更新&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;MiniValine 魔改版更新至 beta10，修改过主题默认 &lt;code&gt;_config.yml&lt;/code&gt;  的同学，记得更新末尾的 &lt;code&gt;vendors&lt;/code&gt;  到最新哦&lt;/li&gt;
-&lt;li&gt;❗ 评论相关的配置有更新，&lt;a href=&#34;config/#%E6%96%87%E7%AB%A0%E8%AF%84%E8%AE%BA&#34;&gt;配置戳此&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;主要增加的 Tag 配置，现在可以各种自定义啦&lt;/li&gt;
+&lt;li&gt;MiniValine魔改版更新至beta10，修改过主题默认&lt;code&gt;_config.yml&lt;/code&gt;的同学，记得更新末尾的&lt;code&gt;vendors&lt;/code&gt;到最新哦&lt;/li&gt;
+&lt;li&gt;❗ 评论相关的配置有更新，&lt;a href=&#34;config/#%E6%96%87%E7%AB%A0%E8%AF%84%E8%AE%BA&#34;&gt;配置戳此&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;主要增加的Tag配置，现在可以各种自定义啦&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;⚠️ 配置新增&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;夜间模式 &lt;code&gt;darkmode&lt;/code&gt; ，&lt;a href=&#34;config/#%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;自动定位 &lt;code&gt;auto_scroll&lt;/code&gt; ，&lt;a href=&#34;config/#%E8%87%AA%E5%8A%A8%E5%AE%9A%E4%BD%8D&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;图床 API 设置 &lt;code&gt;image_server&lt;/code&gt; ，&lt;a href=&#34;config/#%E9%9A%8F%E6%9C%BA%E5%9B%BE%E5%BA%93&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;夜间模式&lt;code&gt;darkmode&lt;/code&gt;，&lt;a href=&#34;config/#%E5%A4%9C%E9%97%B4%E6%A8%A1%E5%BC%8F&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;自动定位&lt;code&gt;auto_scroll&lt;/code&gt;，&lt;a href=&#34;config/#%E8%87%AA%E5%8A%A8%E5%AE%9A%E4%BD%8D&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;图床API设置&lt;code&gt;image_server&lt;/code&gt;，&lt;a href=&#34;config/#%E9%9A%8F%E6%9C%BA%E5%9B%BE%E5%BA%93&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;⚠️ 背景音乐功能增强，&lt;a href=&#34;config/#%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90&#34;&gt;配置戳此&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;可以添加多个播放列表&lt;/li&gt;
 &lt;li&gt;加了一些控制按钮&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;⚠️ 增加 &lt;code&gt;media&lt;/code&gt;  标签，在文章中插入音频和视频播放列表，&lt;a href=&#34;special/#media%E5%A4%9A%E5%AA%92%E4%BD%93&#34;&gt;方法戳此&lt;/a&gt;&lt;br&gt;
-⌛  视频播放器有待增强（显示分段标签，字幕）&lt;/p&gt;
-&lt;p&gt;🔧 随机图库支持非渣浪图床的任意图片&lt;br&gt;
-🔧 还有许多小 BUG&lt;/p&gt;
-&lt;h2 id=&#34;022-023&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#022-023&#34;&gt;#&lt;/a&gt; 0.2.2 👉 0.2.3&lt;/h2&gt;
-&lt;p&gt;❗ 增加主题文件外自定义语言包的功能，&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80%E5%8C%85&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;
-🔧 提高低版本浏览器兼容性&lt;/p&gt;
-&lt;h2 id=&#34;021-022&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#021-022&#34;&gt;#&lt;/a&gt; 0.2.1 👉 0.2.2&lt;/h2&gt;
-&lt;p&gt;⚠️ 弃用 &lt;code&gt;mediumzoom&lt;/code&gt; ，改成 &lt;code&gt;fancybox&lt;/code&gt; ，&lt;a href=&#34;display/#%E5%9B%BE%E7%89%87%E5%B1%95%E7%A4%BA%E4%B8%8E%E7%9B%B8%E5%86%8C&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;
-💡  增加语言包： &lt;code&gt;繁体中文&lt;/code&gt; 和 &lt;code&gt;日语&lt;/code&gt; &lt;br&gt;
-💡  quiz 功能优化，根据语言显示题型标签&lt;br&gt;
-🔧 修复评论功能中反复初始化 leancloud-storage&lt;br&gt;
-🔧 修复 &lt;code&gt;audio: false&lt;/code&gt;  时不能隐藏播放按钮、停止播放&lt;/p&gt;
-&lt;h2 id=&#34;02-021&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#02-021&#34;&gt;#&lt;/a&gt; 0.2 👉 0.2.1&lt;/h2&gt;
-&lt;p&gt;⚠️ 配置文件添加  &lt;code&gt;loader&lt;/code&gt;  参数，&lt;a href=&#34;config/#%E5%8A%A0%E8%BD%BD%E5%8A%A8%E7%94%BB&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;
-💡  二级 list 区别显示&lt;br&gt;
-🔧 修复浏览位置定位 BUG&lt;br&gt;
-🔧 修复 firework 动画延迟&lt;br&gt;
-🔧 优化评论功能&lt;/p&gt;
-&lt;h2 id=&#34;019-02&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#019-02&#34;&gt;#&lt;/a&gt; 0.1.9 👉 0.2&lt;/h2&gt;
-&lt;p&gt;⚠️  &lt;strong&gt;评论功能大改&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;⚠️ 增加&lt;code&gt;media&lt;/code&gt;标签，在文章中插入音频和视频播放列表，&lt;a href=&#34;special/#media%E5%A4%9A%E5%AA%92%E4%BD%93&#34;&gt;方法戳此&lt;/a&gt;&lt;br&gt;⌛  视频播放器有待增强（显示分段标签，字幕）&lt;/p&gt;
+&lt;p&gt;🔧 随机图库支持非渣浪图床的任意图片&lt;br&gt;🔧 还有许多小BUG&lt;/p&gt;
+&lt;h2 id=&#34;0-2-2-👉-0-2-3&#34;&gt;&lt;a href=&#34;#0-2-2-👉-0-2-3&#34; class=&#34;headerlink&#34; title=&#34;0.2.2 👉 0.2.3&#34;&gt;&lt;/a&gt;0.2.2 👉 0.2.3&lt;/h2&gt;&lt;p&gt;❗ 增加主题文件外自定义语言包的功能，&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80%E5%8C%85&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;🔧 提高低版本浏览器兼容性&lt;/p&gt;
+&lt;h2 id=&#34;0-2-1-👉-0-2-2&#34;&gt;&lt;a href=&#34;#0-2-1-👉-0-2-2&#34; class=&#34;headerlink&#34; title=&#34;0.2.1 👉 0.2.2&#34;&gt;&lt;/a&gt;0.2.1 👉 0.2.2&lt;/h2&gt;&lt;p&gt;⚠️ 弃用&lt;code&gt;mediumzoom&lt;/code&gt;，改成&lt;code&gt;fancybox&lt;/code&gt;，&lt;a href=&#34;display/#%E5%9B%BE%E7%89%87%E5%B1%95%E7%A4%BA%E4%B8%8E%E7%9B%B8%E5%86%8C&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;💡  增加语言包：&lt;code&gt;繁体中文&lt;/code&gt;和&lt;code&gt;日语&lt;/code&gt;&lt;br&gt;💡  quiz功能优化，根据语言显示题型标签&lt;br&gt;🔧 修复评论功能中反复初始化leancloud-storage&lt;br&gt;🔧 修复&lt;code&gt;audio: false&lt;/code&gt;时不能隐藏播放按钮、停止播放&lt;/p&gt;
+&lt;h2 id=&#34;0-2-👉-0-2-1&#34;&gt;&lt;a href=&#34;#0-2-👉-0-2-1&#34; class=&#34;headerlink&#34; title=&#34;0.2 👉 0.2.1&#34;&gt;&lt;/a&gt;0.2 👉 0.2.1&lt;/h2&gt;&lt;p&gt;⚠️ 配置文件添加 &lt;code&gt;loader&lt;/code&gt; 参数，&lt;a href=&#34;config/#%E5%8A%A0%E8%BD%BD%E5%8A%A8%E7%94%BB&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;💡  二级list区别显示&lt;br&gt;🔧 修复浏览位置定位BUG&lt;br&gt;🔧 修复firework动画延迟&lt;br&gt;🔧 优化评论功能&lt;/p&gt;
+&lt;h2 id=&#34;0-1-9-👉-0-2&#34;&gt;&lt;a href=&#34;#0-1-9-👉-0-2&#34; class=&#34;headerlink&#34; title=&#34;0.1.9 👉 0.2&#34;&gt;&lt;/a&gt;0.1.9 👉 0.2&lt;/h2&gt;&lt;p&gt;⚠️  &lt;strong&gt;评论功能大改&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;弃用不开源的 Valine，改用 MiniValine，并且进行了魔改，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvTWluaVZhbGluZQ==&#34;&gt;项目戳此&lt;/span&gt;&lt;br&gt;
-主要是大量压缩了代码，弃用一些花里胡哨的功能，又加了一些别的花里胡哨的功能。&lt;/li&gt;
-&lt;li&gt;为防止泄露用户邮箱、IP 等隐私信息，弃用 QQ 号获取昵称及头像。&lt;br&gt;
-❗ 同时需要手动进行一些迁移，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ltYWVnb28vVmFsaW5l&#34;&gt;具体步骤戳此&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;弃用不开源的Valine，改用MiniValine，并且进行了魔改，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvTWluaVZhbGluZQ==&#34;&gt;项目戳此&lt;/span&gt;&lt;br&gt;  主要是大量压缩了代码，弃用一些花里胡哨的功能，又加了一些别的花里胡哨的功能。&lt;/li&gt;
+&lt;li&gt;为防止泄露用户邮箱、IP等隐私信息，弃用QQ号获取昵称及头像。&lt;br&gt;  ❗ 同时需要手动进行一些迁移，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2ltYWVnb28vVmFsaW5l&#34;&gt;具体步骤戳此&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;❗ 评论相关的配置亦有更新，&lt;a href=&#34;config/#%E6%96%87%E7%AB%A0%E8%AF%84%E8%AE%BA&#34;&gt;配置戳此&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;⚠️ 增加单击页面烟花效果，&lt;a href=&#34;config/#%E9%A1%B5%E9%9D%A2%E7%89%B9%E6%95%88&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;
-💡  弃用 Velocity，改用 anime.js，方便未来添加更多&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;花里胡哨的&lt;/span&gt;功能&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;严重拖慢页面滑行速度&lt;/span&gt;&lt;br&gt;
-🔧 新增多枚 icon，包括豆瓣 &lt;code&gt;i-douban&lt;/code&gt;  等&lt;br&gt;
-🔧 一些显示问题&lt;/p&gt;
+&lt;p&gt;⚠️ 增加单击页面烟花效果，&lt;a href=&#34;config/#%E9%A1%B5%E9%9D%A2%E7%89%B9%E6%95%88&#34;&gt;配置戳此&lt;/a&gt;&lt;br&gt;💡  弃用Velocity，改用anime.js，方便未来添加更多!!花里胡哨的!!功能!!严重拖慢页面滑行速度!!&lt;br&gt;🔧 新增多枚icon，包括豆瓣&lt;code&gt;i-douban&lt;/code&gt;等&lt;br&gt;🔧 一些显示问题&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/04/13/computer-science/java/course-1/week-2/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/java/course-1/week-2/</guid>
             <title>第2周 判断</title>
-            <link>http://example.com/2020/04/13/computer-science/java/course-1/week-2/</link>
+            <link>http://example.com/computer-science/java/course-1/week-2/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
+            <category term="零基础学Java语言-浙江大学-翁恺" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6Java%E8%AF%AD%E8%A8%80-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-%E7%BF%81%E6%81%BA/" />
             <pubDate>Mon, 13 Apr 2020 19:12:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;:::note info&lt;br&gt;
  以下为个人学习笔记和习题整理&lt;br&gt;
@@ -1234,40 +1237,29 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2020/04/12/computer-science/java/course-1/week-1/</guid>
+            <guid isPermalink="true">http://example.com/computer-science/java/course-1/week-1/</guid>
             <title>第1周 计算</title>
-            <link>http://example.com/2020/04/12/computer-science/java/course-1/week-1/</link>
+            <link>http://example.com/computer-science/java/course-1/week-1/</link>
+            <category term="计算机科学" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/" />
+            <category term="Java" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/" />
+            <category term="零基础学Java语言-浙江大学-翁恺" scheme="http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6/Java/%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6Java%E8%AF%AD%E8%A8%80-%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6-%E7%BF%81%E6%81%BA/" />
             <pubDate>Sun, 12 Apr 2020 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;:::note info&lt;br&gt;
- 以下为个人学习笔记和习题整理&lt;br&gt;
-课程：零基础学 Java 语言 - 浙江大学 - 翁恺 @ 中国大学 MOOC&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvdXJzZTE2My5vcmcvY291cnNlL1pKVS0xMDAxNTQxMDAx&#34;&gt;https://www.icourse163.org/course/ZJU-1001541001&lt;/span&gt;&lt;br&gt;
-:::&lt;/p&gt;
-&lt;h1 id=&#34;课堂笔记&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#课堂笔记&#34;&gt;#&lt;/a&gt; 课堂笔记&lt;/h1&gt;
-&lt;h2 id=&#34;读输入-字符串输出&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#读输入-字符串输出&#34;&gt;#&lt;/a&gt; 读输入、字符串输出&lt;/h2&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;scanner&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; java.util.Scanner;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Scanner in = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; Scanner(System.in);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 输入Scan之后，按下键盘 Alt + “/” 键，Eclipse下自动补全。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(in.nextLine());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 让in这个对象做读入下一行的动作，结果交给System.out这个对象去打印一行。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 字符串的 + 用来连接两个字符串形成更长的字符串。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt; + &lt;span class=&#34;string&#34;&gt;&amp;quot; world.&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; + &lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+            <description><![CDATA[ &lt;p&gt;:::note info&lt;br&gt;以下为个人学习笔记和习题整理&lt;br&gt;课程：零基础学Java语言-浙江大学-翁恺 @ 中国大学MOOC&lt;br&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuaWNvdXJzZTE2My5vcmcvY291cnNlL1pKVS0xMDAxNTQxMDAx&#34;&gt;https://www.icourse163.org/course/ZJU-1001541001&lt;/span&gt;&lt;br&gt;:::&lt;/p&gt;
+&lt;h1 id=&#34;课堂笔记&#34;&gt;&lt;a href=&#34;#课堂笔记&#34; class=&#34;headerlink&#34; title=&#34;课堂笔记&#34;&gt;&lt;/a&gt;课堂笔记&lt;/h1&gt;&lt;h2 id=&#34;读输入、字符串输出&#34;&gt;&lt;a href=&#34;#读输入、字符串输出&#34; class=&#34;headerlink&#34; title=&#34;读输入、字符串输出&#34;&gt;&lt;/a&gt;读输入、字符串输出&lt;/h2&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;scanner&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; java.util.Scanner;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;...&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Scanner in = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; Scanner(System.in);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 输入Scan之后，按下键盘 Alt + “/” 键，Eclipse下自动补全。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(in.nextLine());&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 让in这个对象做读入下一行的动作，结果交给System.out这个对象去打印一行。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 字符串的 + 用来连接两个字符串形成更长的字符串。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt; + &lt;span class=&#34;string&#34;&gt;&amp;quot; world.&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt; + &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; + &lt;span class=&#34;string&#34;&gt;&amp;quot;Hello&amp;quot;&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;p&gt;tips：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;System.out.println&lt;/code&gt;  会换行， &lt;code&gt;System.out.print&lt;/code&gt;  则不会换行&lt;/li&gt;
-&lt;li&gt;出现警告： &lt;code&gt;Resource leak: &#39;in&#39; is never closed&lt;/code&gt; ，可以在函数的最后加入&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;System.out.println&lt;/code&gt; 会换行，&lt;code&gt;System.out.print&lt;/code&gt; 则不会换行&lt;/li&gt;
+&lt;li&gt;出现警告：&lt;code&gt;Resource leak: &amp;#39;in&amp;#39; is never closed&lt;/code&gt;，可以在函数的最后加入&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;in.close();&lt;span class=&#34;comment&#34;&gt;//释放&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;in.close();&lt;span class=&#34;comment&#34;&gt;//释放&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;变量&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#变量&#34;&gt;#&lt;/a&gt; 变量&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;形式&lt;/strong&gt;：&amp;lt;类型名称&amp;gt; &amp;lt; 变量名称 &amp;gt; = &amp;lt; 初始值 &amp;gt;&lt;br&gt;
- &lt;code&gt;int price, amount; // 同时定义两个变量&lt;/code&gt; &lt;br&gt;
- &lt;code&gt;int price = 0; // 定义变量并赋值&lt;/code&gt; &lt;br&gt;
- &lt;code&gt;int price, amount = 100, age;&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;变量&#34;&gt;&lt;a href=&#34;#变量&#34; class=&#34;headerlink&#34; title=&#34;变量&#34;&gt;&lt;/a&gt;变量&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;形式&lt;/strong&gt;：&amp;lt;类型名称&amp;gt; &amp;lt;变量名称&amp;gt; = &amp;lt;初始值&amp;gt;&lt;br&gt;&lt;code&gt;int price, amount; // 同时定义两个变量&lt;/code&gt;&lt;br&gt;&lt;code&gt;int price = 0; // 定义变量并赋值&lt;/code&gt;&lt;br&gt;&lt;code&gt;int price, amount = 100, age;&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;类型名称&lt;/strong&gt;：Java 是一种&lt;strong&gt;强类型语言&lt;/strong&gt;，所有变量在使用前必须定义或声明，所有变量必须具有确定的数据类型。数据类型表示在变量中可以存放什么样的数据，程序运行过程中也不能改变变量的类型。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;类型名称&lt;/strong&gt;：Java是一种&lt;strong&gt;强类型语言&lt;/strong&gt;，所有变量在使用前必须定义或声明，所有变量必须具有确定的数据类型。数据类型表示在变量中可以存放什么样的数据，程序运行过程中也不能改变变量的类型。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;变量名称&lt;/strong&gt;：又称标识符，只能由字母、数字、下划线构成，数字不能出现在第一个位置。此外，Java 的保留字也不能用作标识符。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;变量名称&lt;/strong&gt;：又称标识符，只能由字母、数字、下划线构成，数字不能出现在第一个位置。此外，Java的保留字也不能用作标识符。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Java 的保留字列表&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Java的保留字列表&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;table&gt;
@@ -1280,8 +1272,7 @@ grape&lt;/p&gt;
 &lt;th&gt;throws&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
+&lt;tbody&gt;&lt;tr&gt;
 &lt;td&gt;boolean&lt;/td&gt;
 &lt;td&gt;double&lt;/td&gt;
 &lt;td&gt;import&lt;/td&gt;
@@ -1328,124 +1319,99 @@ grape&lt;/p&gt;
 &lt;td&gt;float&lt;/td&gt;
 &lt;td&gt;new&lt;/td&gt;
 &lt;td&gt;switch&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;const*&lt;/td&gt;
 &lt;td&gt;for&lt;/td&gt;
 &lt;td&gt;null&lt;/td&gt;
 &lt;td&gt;synchronized&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;continue&lt;/td&gt;
 &lt;td&gt;goto*&lt;/td&gt;
 &lt;td&gt;package&lt;/td&gt;
 &lt;td&gt;this&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;default&lt;/td&gt;
 &lt;td&gt;if&lt;/td&gt;
 &lt;td&gt;private&lt;/td&gt;
 &lt;td&gt;throw&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;ul class=&#34;task-list&#34;&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;ul&gt;
 &lt;li&gt;以下哪些标识符是符合规则的？&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_0&#34;&gt; currency&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_1&#34;&gt; lastName&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_2&#34;&gt; fireplace&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_3&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_3&#34;&gt; _last_name&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_4&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_4&#34;&gt; xingmin&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_5&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_5&#34;&gt; class&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_6&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_6&#34;&gt; goto&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_7&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_7&#34;&gt; 4ever&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_8&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_8&#34;&gt; time-machine&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_9&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_9&#34;&gt; Int&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_10&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_10&#34;&gt; $12&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_11&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_11&#34;&gt; 我是变量&lt;/label&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked disabled type=&#34;checkbox&#34;&gt; currency&lt;/li&gt;
+&lt;li&gt;&lt;input checked disabled type=&#34;checkbox&#34;&gt; lastName&lt;/li&gt;
+&lt;li&gt;&lt;input checked disabled type=&#34;checkbox&#34;&gt; fireplace&lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; _last_name&lt;/li&gt;
+&lt;li&gt;&lt;input checked disabled type=&#34;checkbox&#34;&gt; xingmin&lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; class&lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; goto&lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; 4ever&lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; time-machine&lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; Int &lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; $12 &lt;/li&gt;
+&lt;li&gt;&lt;input disabled type=&#34;checkbox&#34;&gt; 我是变量&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;常量-final&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#常量-final&#34;&gt;#&lt;/a&gt; 常量 final&lt;/h2&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;final&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; AMOUNT = &lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// final是一个修饰符，表示这个变量的值一旦初始化，就不能再修改了。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;变量类型&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#变量类型&#34;&gt;#&lt;/a&gt; 变量类型&lt;/h2&gt;
-&lt;h3 id=&#34;整数-int&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#整数-int&#34;&gt;#&lt;/a&gt; 整数 int&lt;/h3&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; price = in.nextInt();&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;常量-final&#34;&gt;&lt;a href=&#34;#常量-final&#34; class=&#34;headerlink&#34; title=&#34;常量 final&#34;&gt;&lt;/a&gt;常量 final&lt;/h2&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;final&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; AMOUNT = &lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// final是一个修饰符，表示这个变量的值一旦初始化，就不能再修改了。&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;变量类型&#34;&gt;&lt;a href=&#34;#变量类型&#34; class=&#34;headerlink&#34; title=&#34;变量类型&#34;&gt;&lt;/a&gt;变量类型&lt;/h2&gt;&lt;h3 id=&#34;整数-int&#34;&gt;&lt;a href=&#34;#整数-int&#34; class=&#34;headerlink&#34; title=&#34;整数 int&#34;&gt;&lt;/a&gt;整数 int&lt;/h3&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; price = in.nextInt();&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;ul&gt;
-&lt;li&gt;如果用户输入的不是整数，则会报错  &lt;code&gt;java.util.InputMismatchException&lt;/code&gt; 。&lt;/li&gt;
-&lt;li&gt;程序要求读入多个数字时，可以在一行输入，中间用空格分开，也可以多行输入。&lt;/li&gt;
-&lt;li&gt;每次召唤 &lt;code&gt;in.nextInt()&lt;/code&gt; ，它就等待用户输入一个整数。&lt;/li&gt;
+&lt;li&gt;如果用户输入的不是整数，则会报错 &lt;code&gt;java.util.InputMismatchException&lt;/code&gt;。&lt;/li&gt;
+&lt;li&gt;   程序要求读入多个数字时，可以在一行输入，中间用空格分开，也可以多行输入。&lt;/li&gt;
+&lt;li&gt;每次召唤&lt;code&gt;in.nextInt()&lt;/code&gt;，它就等待用户输入一个整数。&lt;/li&gt;
 &lt;li&gt;两个整数的运算结果只能是整数。&lt;/li&gt;
-&lt;li&gt;在 Java 中， &lt;code&gt;10&lt;/code&gt;  和 &lt;code&gt;10.0&lt;/code&gt;  是完全不同的数。&lt;/li&gt;
+&lt;li&gt;在Java中，&lt;code&gt;10&lt;/code&gt;和&lt;code&gt;10.0&lt;/code&gt;是完全不同的数。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;浮点数-double&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#浮点数-double&#34;&gt;#&lt;/a&gt; 浮点数 double&lt;/h3&gt;
-&lt;ul&gt;
+&lt;h3 id=&#34;浮点数-double&#34;&gt;&lt;a href=&#34;#浮点数-double&#34; class=&#34;headerlink&#34; title=&#34;浮点数 double&#34;&gt;&lt;/a&gt;浮点数 double&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;浮点数运算有误差&lt;/strong&gt;：由于二进制的自身限制，浮点计算需要将十进制先转换为二进制，然后对二进制数进行计算，因此导致误差。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;number&#34;&gt;1.2&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;1.1&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 结果为 0.09999999999999987&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;System.out.println(&lt;span class=&#34;number&#34;&gt;1.2&lt;/span&gt;-&lt;span class=&#34;number&#34;&gt;1.1&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;// 结果为 0.09999999999999987&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
 &lt;ul&gt;
 &lt;li&gt;整数类型不能表达有小数部分的数；整数运算速度快，占内存小；日常中整数运算多。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;赋值运算&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#赋值运算&#34;&gt;#&lt;/a&gt; 赋值运算&lt;/h2&gt;
-&lt;h3 id=&#34;强制类型转换&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#强制类型转换&#34;&gt;#&lt;/a&gt; 强制类型转换&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;浮点数和整数放在一起运算时，Java 会将整数转换成浮点数，然后进行浮点数运算。&lt;/li&gt;
-&lt;li&gt;强制性转换的优先级高于四则运算。&lt;/li&gt;
+&lt;h2 id=&#34;赋值运算&#34;&gt;&lt;a href=&#34;#赋值运算&#34; class=&#34;headerlink&#34; title=&#34;赋值运算&#34;&gt;&lt;/a&gt;赋值运算&lt;/h2&gt;&lt;h3 id=&#34;强制类型转换&#34;&gt;&lt;a href=&#34;#强制类型转换&#34; class=&#34;headerlink&#34; title=&#34;强制类型转换&#34;&gt;&lt;/a&gt;强制类型转换&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;浮点数和整数放在一起运算时，Java会将整数转换成浮点数，然后进行浮点数运算。&lt;/li&gt;
+&lt;li&gt;强制性转换的优先级高于四则运算。&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;double&lt;/span&gt; a = &lt;span class=&#34;number&#34;&gt;1.0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;double&lt;/span&gt; b = &lt;span class=&#34;number&#34;&gt;2.0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; i = (&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt;)a/b; &lt;span class=&#34;comment&#34;&gt;//会报错&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; i = (&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt;)(a/b); &lt;span class=&#34;comment&#34;&gt;//不会报错&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;运算符优先级&#34;&gt;&lt;a href=&#34;#运算符优先级&#34; class=&#34;headerlink&#34; title=&#34;运算符优先级&#34;&gt;&lt;/a&gt;运算符优先级&lt;/h3&gt;&lt;/li&gt;
+&lt;li&gt;单目运算符&lt;code&gt;+&lt;/code&gt; &lt;code&gt;-&lt;/code&gt; 优先级最高&lt;/li&gt;
+&lt;li&gt;结合关系一般自左向右，单目&lt;code&gt;+&lt;/code&gt; &lt;code&gt;-&lt;/code&gt;和赋值&lt;code&gt;=&lt;/code&gt;自右向左。&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;result = a = b = &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; + c;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = (result = result * &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;) * &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt; * (result = &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; + result);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;复合赋值&#34;&gt;&lt;a href=&#34;#复合赋值&#34; class=&#34;headerlink&#34; title=&#34;复合赋值&#34;&gt;&lt;/a&gt;复合赋值&lt;/h3&gt;&lt;/li&gt;
+&lt;li&gt;5个算术运算符，&lt;code&gt;+ - * / %&lt;/code&gt;，可以和赋值运算符 &lt;code&gt;=&lt;/code&gt; 结合起来，形成复合赋值运算。注意，两个运算符中间不要有空格。&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;total += (sum+&lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;)/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total = total + (sum+&lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;)/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total * = sum+&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total = total*(sum+&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total /= &lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;+&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total = total / (&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;+&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;li&gt;递增递减运算符 &lt;code&gt;++&lt;/code&gt; &lt;code&gt;--&lt;/code&gt;，给变量+1或-1&lt;/li&gt;
+&lt;li&gt;前缀后缀：&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;a = &lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;t1 = a++; &lt;span class=&#34;comment&#34;&gt;// t1先被赋值为 a 即14， a自加到 15&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;t2 = ++a; &lt;span class=&#34;comment&#34;&gt;// a先自加到 15，t2被赋值为 a 即 15&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;double&lt;/span&gt; a = &lt;span class=&#34;number&#34;&gt;1.0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;double&lt;/span&gt; b = &lt;span class=&#34;number&#34;&gt;2.0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; i = (&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt;)a/b; &lt;span class=&#34;comment&#34;&gt;//会报错&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; i = (&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt;)(a/b); &lt;span class=&#34;comment&#34;&gt;//不会报错&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h3 id=&#34;运算符优先级&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运算符优先级&#34;&gt;#&lt;/a&gt; 运算符优先级&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;单目运算符 &lt;code&gt;+&lt;/code&gt;   &lt;code&gt;-&lt;/code&gt;  优先级最高&lt;/li&gt;
-&lt;li&gt;结合关系一般自左向右，单目 &lt;code&gt;+&lt;/code&gt;   &lt;code&gt;-&lt;/code&gt;  和赋值 &lt;code&gt;=&lt;/code&gt;  自右向左。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;result = a = b = &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; + c;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;result = (result = result * &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;) * &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt; * (result = &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt; + result);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h3 id=&#34;复合赋值&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#复合赋值&#34;&gt;#&lt;/a&gt; 复合赋值&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;5 个算术运算符， &lt;code&gt;+ - * / %&lt;/code&gt; ，可以和赋值运算符  &lt;code&gt;=&lt;/code&gt;  结合起来，形成复合赋值运算。注意，两个运算符中间不要有空格。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;total += (sum+&lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;)/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total = total + (sum+&lt;span class=&#34;number&#34;&gt;100&lt;/span&gt;)/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total * = sum+&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total = total*(sum+&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total /= &lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;+&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;total = total / (&lt;span class=&#34;number&#34;&gt;12&lt;/span&gt;+&lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;ul&gt;
-&lt;li&gt;递增递减运算符  &lt;code&gt;++&lt;/code&gt;   &lt;code&gt;--&lt;/code&gt; ，给变量 + 1 或 - 1&lt;/li&gt;
-&lt;li&gt;前缀后缀：&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;a = &lt;span class=&#34;number&#34;&gt;14&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;t1 = a++; &lt;span class=&#34;comment&#34;&gt;// t1先被赋值为 a 即14， a自加到 15&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;t2 = ++a; &lt;span class=&#34;comment&#34;&gt;// a先自加到 15，t2被赋值为 a 即 15&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h1 id=&#34;编程题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#编程题&#34;&gt;#&lt;/a&gt; 编程题&lt;/h1&gt;
-&lt;h2 id=&#34;题目1-温度转换5分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#题目1-温度转换5分&#34;&gt;#&lt;/a&gt; 题目 1. 温度转换（5 分）&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;题目内容&lt;/strong&gt;&lt;br&gt;
-写一个将华氏温度转换成摄氏温度的程序，转换的公式是：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;°F = (9/5)*°C + 32&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;其中 C 表示摄氏温度，F 表示华氏温度。&lt;/p&gt;
-&lt;p&gt;程序的输入是一个整数，表示华氏温度。输出对应的摄氏温度，也是一个整数。&lt;/p&gt;
-&lt;p&gt;提示，为了把计算结果的浮点数转换成整数，需要使用下面的表达式：&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;(int)x;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;其中 x 是要转换的那个浮点数。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;注意：除了题目要求的输出，不能输出任何其他内容，比如输入时的提示，输出时的说明等等都不能。这道题目要求转换后的数字，程序就只能输出这个数字，除此之外任何内容都不能输出。&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;编程题&#34;&gt;&lt;a href=&#34;#编程题&#34; class=&#34;headerlink&#34; title=&#34;编程题&#34;&gt;&lt;/a&gt;编程题&lt;/h1&gt;&lt;h2 id=&#34;题目1-温度转换（5分）&#34;&gt;&lt;a href=&#34;#题目1-温度转换（5分）&#34; class=&#34;headerlink&#34; title=&#34;题目1. 温度转换（5分）&#34;&gt;&lt;/a&gt;题目1. 温度转换（5分）&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;题目内容&lt;/strong&gt;&lt;br&gt;  写一个将华氏温度转换成摄氏温度的程序，转换的公式是：&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;°F = (9/5)*°C + 32&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;  其中C表示摄氏温度，F表示华氏温度。&lt;/p&gt;
+&lt;p&gt;  程序的输入是一个整数，表示华氏温度。输出对应的摄氏温度，也是一个整数。&lt;/p&gt;
+&lt;p&gt;  提示，为了把计算结果的浮点数转换成整数，需要使用下面的表达式：&lt;/p&gt;
+&lt;p&gt;  &lt;code&gt;(int)x;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;  其中x是要转换的那个浮点数。&lt;/p&gt;
+&lt;p&gt;  &lt;em&gt;注意：除了题目要求的输出，不能输出任何其他内容，比如输入时的提示，输出时的说明等等都不能。这道题目要求转换后的数字，程序就只能输出这个数字，除此之外任何内容都不能输出。&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;输入格式&lt;/strong&gt;&lt;br&gt;
-一个整数。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;输入格式&lt;/strong&gt;&lt;br&gt;一个整数。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;输出格式&lt;/strong&gt;&lt;br&gt;
-一个整数。&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;输出格式&lt;/strong&gt;&lt;br&gt;一个整数。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;输入样例&lt;/strong&gt;&lt;br&gt;
- 100&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;输入样例&lt;/strong&gt;&lt;br&gt;100&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;输出样例&lt;/strong&gt;&lt;br&gt;
- 37&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;输出样例&lt;/strong&gt;&lt;br&gt;37&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;解题代码&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#解题代码&#34;&gt;#&lt;/a&gt; 解题代码&lt;/h3&gt;
-&lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; java.util.Scanner;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;Main&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(String[] args)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		Scanner in = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; Scanner(System.in);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 获得输入的整数&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; fahrenheit = in.nextInt();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 计算摄氏度&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;double&lt;/span&gt; centigrade = (fahrenheit - &lt;span class=&#34;number&#34;&gt;32&lt;/span&gt;) / (&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;5.0&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 将浮点数转换为整数输出&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		System.out.println((&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt;)centigrade);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;解题代码&#34;&gt;&lt;a href=&#34;#解题代码&#34; class=&#34;headerlink&#34; title=&#34;解题代码&#34;&gt;&lt;/a&gt;解题代码&lt;/h3&gt;&lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption&gt;&lt;span&gt;top&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; java.util.Scanner;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;Main&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(String[] args)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		Scanner in = &lt;span class=&#34;keyword&#34;&gt;new&lt;/span&gt; Scanner(System.in);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 获得输入的整数&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; fahrenheit = in.nextInt();&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 计算摄氏度&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;keyword&#34;&gt;double&lt;/span&gt; centigrade = (fahrenheit - &lt;span class=&#34;number&#34;&gt;32&lt;/span&gt;) / (&lt;span class=&#34;number&#34;&gt;9&lt;/span&gt; / &lt;span class=&#34;number&#34;&gt;5.0&lt;/span&gt;);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		&lt;span class=&#34;comment&#34;&gt;// 将浮点数转换为整数输出&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;		System.out.println((&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt;)centigrade);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;	&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2019/07/25/code-highlight/</guid>
+            <guid isPermalink="true">http://example.com/code-highlight/</guid>
             <title>Code Highlight Style test</title>
-            <link>http://example.com/2019/07/25/code-highlight/</link>
+            <link>http://example.com/code-highlight/</link>
             <pubDate>Thu, 25 Jul 2019 16:43:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oaWdobGlnaHRqcy5vcmc=&#34;&gt;https://highlightjs.org&lt;/span&gt;&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -1469,11 +1435,11 @@ grape&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2018/07/24/markdown/</guid>
+            <guid isPermalink="true">http://example.com/markdown/</guid>
             <title>Markdown Style test</title>
-            <link>http://example.com/2018/07/24/markdown/</link>
-            <category>Foo</category>
-            <category>Bar</category>
+            <link>http://example.com/markdown/</link>
+            <category term="Foo" scheme="http://example.com/tags/Foo/" />
+            <category term="Bar" scheme="http://example.com/tags/Bar/" />
             <pubDate>Tue, 24 Jul 2018 23:31:06 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post is originated from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vYXBhY2tlZXIvNDE1OTI2OA==&#34;&gt;here&lt;/span&gt; and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -1697,9 +1663,9 @@ This line is only separated by a single newline, so it’s a separate line in th
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/26/images/</guid>
+            <guid isPermalink="true">http://example.com/images/</guid>
             <title>Images</title>
-            <link>http://example.com/2013/12/26/images/</link>
+            <link>http://example.com/images/</link>
             <pubDate>Thu, 26 Dec 2013 22:46:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a image test post.&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt&gt;&lt;/p&gt;
@@ -1709,17 +1675,17 @@ This line is only separated by a single newline, so it’s a separate line in th
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/no-title/</guid>
+            <guid isPermalink="true">http://example.com/no-title/</guid>
             <title></title>
-            <link>http://example.com/2013/12/25/no-title/</link>
+            <link>http://example.com/no-title/</link>
             <pubDate>Wed, 25 Dec 2013 22:57:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post doesn’t have a title. Make sure it’s accessible.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/excerpts/</guid>
+            <guid isPermalink="true">http://example.com/excerpts/</guid>
             <title>Excerpts</title>
-            <link>http://example.com/2013/12/25/excerpts/</link>
+            <link>http://example.com/excerpts/</link>
             <pubDate>Wed, 25 Dec 2013 00:23:23 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;The following contents should be invisible in home/archive page.&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -1728,9 +1694,9 @@ This line is only separated by a single newline, so it’s a separate line in th
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/videos/</guid>
+            <guid isPermalink="true">http://example.com/videos/</guid>
             <title>Videos</title>
-            <link>http://example.com/2013/12/25/videos/</link>
+            <link>http://example.com/videos/</link>
             <pubDate>Wed, 25 Dec 2013 00:19:15 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a video test post.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/p&gt;
@@ -1739,9 +1705,9 @@ This line is only separated by a single newline, so it’s a separate line in th
 &lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/82090131&#34; frameborder=&#34;0&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/gallery-post/</guid>
+            <guid isPermalink="true">http://example.com/gallery-post/</guid>
             <title>Gallery Post</title>
-            <link>http://example.com/2013/12/25/gallery-post/</link>
+            <link>http://example.com/gallery-post/</link>
             <pubDate>Wed, 25 Dec 2013 00:16:18 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post contains 4 photos:&lt;/p&gt;
 &lt;ul&gt;
@@ -1755,9 +1721,9 @@ This line is only separated by a single newline, so it’s a separate line in th
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/25/tag-plugins/</guid>
+            <guid isPermalink="true">http://example.com/tag-plugins/</guid>
             <title>Tag Plugins</title>
-            <link>http://example.com/2013/12/25/tag-plugins/</link>
+            <link>http://example.com/tag-plugins/</link>
             <pubDate>Wed, 25 Dec 2013 00:14:39 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post is used for testing tag plugins. See &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3plc3BpYS50dy9oZXhvL2RvY3MvdGFnLXBsdWdpbnMuaHRtbA==&#34;&gt;docs&lt;/span&gt; for more info.&lt;/p&gt;
 &lt;h2 id=&#34;block-quote&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#block-quote&#34;&gt;#&lt;/a&gt; Block Quote&lt;/h2&gt;
@@ -1801,17 +1767,17 @@ This line is only separated by a single newline, so it’s a separate line in th
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/link-post-without-title/</guid>
+            <guid isPermalink="true">http://example.com/link-post-without-title/</guid>
             <title>www.google.com</title>
-            <link>http://example.com/2013/12/24/link-post-without-title/</link>
+            <link>http://example.com/link-post-without-title/</link>
             <pubDate>Tue, 24 Dec 2013 23:44:13 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
+            <guid isPermalink="true">http://example.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
             <title>日本語テスト</title>
-            <link>http://example.com/2013/12/24/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
+            <link>http://example.com/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
             <pubDate>Tue, 24 Dec 2013 23:33:26 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a Japanese test post.&lt;/p&gt;
 &lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
@@ -1823,130 +1789,6 @@ This line is only separated by a single newline, so it’s a separate line in th
 &lt;/blockquote&gt;
 &lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xpcHN1bS5zdWd1dHN1a2FlcnUuanAvaW5kZXguY2dp&#34;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
-            <title>中文測試</title>
-            <link>http://example.com/2013/12/24/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
-            <pubDate>Tue, 24 Dec 2013 23:31:30 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a Chinese test post.&lt;/p&gt;
-&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
-&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
-&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我…… 月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
-&lt;p&gt;國新故。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;工步他始能詩的，裝進分星海演意學值例道…… 於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yaWNoeWxpLmNvbS90b29sL2xvcmVtaXBzdW0v&#34;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/long-title/</guid>
-            <title>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.</title>
-            <link>http://example.com/2013/12/24/long-title/</link>
-            <pubDate>Tue, 24 Dec 2013 23:31:06 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/categories/</guid>
-            <title>Categories</title>
-            <link>http://example.com/2013/12/24/categories/</link>
-            <pubDate>Tue, 24 Dec 2013 23:30:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/link-post/</guid>
-            <title>Link Post</title>
-            <link>http://example.com/2013/12/24/link-post/</link>
-            <pubDate>Tue, 24 Dec 2013 23:30:04 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This is a link post. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/tags/</guid>
-            <title>Tags</title>
-            <link>http://example.com/2013/12/24/tags/</link>
-            <category>Foo</category>
-            <category>Bar</category>
-            <category>Baz</category>
-            <pubDate>Tue, 24 Dec 2013 23:29:53 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/elements/</guid>
-            <title>Elements</title>
-            <link>http://example.com/2013/12/24/elements/</link>
-            <pubDate>Tue, 24 Dec 2013 23:29:08 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefine the style by yourself.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;heading-1&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#heading-1&#34;&gt;#&lt;/a&gt; Heading 1&lt;/h1&gt;
-&lt;h2 id=&#34;heading-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#heading-2&#34;&gt;#&lt;/a&gt; Heading 2&lt;/h2&gt;
-&lt;h3 id=&#34;heading-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#heading-3&#34;&gt;#&lt;/a&gt; Heading 3&lt;/h3&gt;
-&lt;h4 id=&#34;heading-4&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#heading-4&#34;&gt;#&lt;/a&gt; Heading 4&lt;/h4&gt;
-&lt;h5 id=&#34;heading-5&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#heading-5&#34;&gt;#&lt;/a&gt; Heading 5&lt;/h5&gt;
-&lt;h6 id=&#34;heading-6&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#heading-6&#34;&gt;#&lt;/a&gt; Heading 6&lt;/h6&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;paragraph&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#paragraph&#34;&gt;#&lt;/a&gt; Paragraph&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href&gt;test link&lt;/a&gt; consectetur adipiscing elit. &lt;strong&gt;Strong text&lt;/strong&gt; pellentesque ligula commodo viverra vehicula. &lt;em&gt;Italic text&lt;/em&gt; at ullamcorper enim. Morbi a euismod nibh. &lt;u&gt;Underline text&lt;/u&gt; non elit nisl. &lt;s&gt;Deleted text&lt;/s&gt; tristique, sem id condimentum tempus, metus lectus venenatis mauris, sit amet semper lorem felis a eros. Fusce egestas nibh at sagittis auctor. Sed ultricies ac arcu quis molestie. Donec dapibus nunc in nibh egestas, vitae volutpat sem iaculis. Curabitur sem tellus, elementum nec quam id, fermentum laoreet mi. Ut mollis ullamcorper turpis, vitae facilisis velit ultricies sit amet. Etiam laoreet dui odio, id tempus justo tincidunt id. Phasellus scelerisque nunc sed nunc ultricies accumsan.&lt;/p&gt;
-&lt;p&gt;Interdum et malesuada fames ac ante ipsum primis in faucibus.  &lt;code&gt;Sed erat diam&lt;/code&gt; , blandit eget felis aliquam, rhoncus varius urna. Donec tellus sapien, sodales eget ante vitae, feugiat ullamcorper urna. Praesent auctor dui vitae dapibus eleifend. Proin viverra mollis neque, ut ullamcorper elit posuere eget.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.&lt;/p&gt;
-&lt;h2 id=&#34;list-types&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#list-types&#34;&gt;#&lt;/a&gt; List Types&lt;/h2&gt;
-&lt;h3 id=&#34;definition-list-dl&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#definition-list-dl&#34;&gt;#&lt;/a&gt; Definition List (dl)&lt;/h3&gt;
-&lt;dl&gt;&lt;dt&gt;Definition List Title&lt;/dt&gt;&lt;dd&gt;This is a definition list division.&lt;/dd&gt;&lt;/dl&gt;
-&lt;h3 id=&#34;ordered-list-ol&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ordered-list-ol&#34;&gt;#&lt;/a&gt; Ordered List (ol)&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;unordered-list-ul&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#unordered-list-ul&#34;&gt;#&lt;/a&gt; Unordered List (ul)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;checkbox-list-ul&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#checkbox-list-ul&#34;&gt;#&lt;/a&gt; Checkbox List (ul)&lt;/h3&gt;
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_0&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_0&#34;&gt; List Item 1 unchecked&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_1&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_1&#34;&gt; List Item 2 checked&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_2&#34; checked=&#34;true&#34; disabled=&#34;true&#34;&gt;&lt;label for=&#34;cbx_2&#34;&gt; List Item 3 checked&lt;/label&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;table&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#table&#34;&gt;#&lt;/a&gt; Table&lt;/h2&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Table Header 1&lt;/th&gt;
-&lt;th&gt;Table Header 2&lt;/th&gt;
-&lt;th&gt;Table Header 3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h2 id=&#34;misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#misc-stuff-abbr-acronym-sub-sup-kbd-etc&#34;&gt;#&lt;/a&gt; Misc Stuff - abbr, acronym, sub, sup, kbd, etc.&lt;/h2&gt;
-&lt;p&gt;Lorem &lt;sup&gt;superscript&lt;/sup&gt; dolor &lt;sub&gt;subscript&lt;/sub&gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;acronym title=&#34;National Basketball Association&#34;&gt;NBA&lt;/acronym&gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &lt;abbr title=&#34;Avenue&#34;&gt;AVE&lt;/abbr&gt;. Use &lt;kbd&gt;Crtl&lt;/kbd&gt; + &lt;kbd&gt;C&lt;/kbd&gt; to stop.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
