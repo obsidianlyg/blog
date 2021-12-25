@@ -61,7 +61,8 @@
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;直接 gitee 上传图片到 markdown 下使用&lt;/p&gt;
-&lt;p&gt;注意：&lt;img data-src=&#34;https://i.loli.net/2021/08/08/VOR6B7WZPlzcIug.png&#34; alt=&#34;w&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;注意：&lt;br /&gt;
+&lt;img data-src=&#34;https://i.loli.net/2021/08/08/VOR6B7WZPlzcIug.png&#34; alt=&#34;w&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;blob 需要修改为&lt;strong&gt; raw&lt;/strong&gt;&lt;br /&gt;
 &lt;strong&gt; 如下图所示&lt;/strong&gt;：&lt;br /&gt;
 &lt;img data-src=&#34;https://gitee.com/obsidianlyg/gallery/raw/master/image/1621872400166.jpeg&#34; alt=&#34;x&#34; /&gt;&lt;/p&gt;
