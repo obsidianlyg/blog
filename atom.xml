@@ -8,7 +8,80 @@
     <author>
       <name>Obsidian</name>
     </author>
-    <updated>2021-12-25T07:19:03.000Z</updated>
+    <updated>2021-12-25T08:54:55.000Z</updated>
+    <entry>
+        <id>http://obsidianlyg.gitee.io/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</id>
+        <title>各种图床简介</title>
+        <link rel="alternate" href="http://obsidianlyg.gitee.io/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWd0dS5jb20vaS9mZUFrbTg=&#34;&gt;路过图床 (web)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;支持最大上传图片 10M（主页介绍）&lt;/p&gt;
+&lt;p&gt;可以设置自动删除设置&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/08/05/feAkm8.png&#34; alt=&#34;feAkm8.png&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucGljYi5jYy8=&#34;&gt;共享式图床 picb.cc (web)&lt;/span&gt;(不太好用，会上传出错)&lt;/p&gt;
+&lt;p&gt;目前没有发现限制上传图片大小（没有超过 10M 的图片测试）&lt;/p&gt;
+&lt;p&gt;可以设置自动删除设置&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://t1.picb.cc/uploads/2021/12/25/fChNEK.jpg&#34; alt=&#34;fChNEK.jpg&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3JpeXVnby5jb20v&#34;&gt;薄荷图床 (web)：还可以上传文件&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;支持最大上传图片 5M&lt;/p&gt;
+&lt;p&gt;非永久性存储 (免费版有效期三天)&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://obohe.com/i/2021/08/05/uadtn6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zbS5tcy8=&#34;&gt;sm.ms(web)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;支持最大上传图片 5M&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/08/05/SXxF8oikAGW7KEZ.png&#34; alt=&#34;archlinux.png&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWcuaXRjbGFuLmNuLyMvdXBsb2Fk&#34;&gt;客来图床 (web)：连接 github&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;目前没有发现限制上传图片大小（没有超过 10M 的图片测试）&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/cannian-py/gallery@main/image/archlinux.oyeghblbmls.png&#34; alt=&#34;archlinux&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;起始时间&lt;/strong&gt;：2021 年 8 月 5 日 18:39:59&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tb2x1bmVyZmlubi5jb20vUGljR28v&#34;&gt;picgo (PC 端)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重点&lt;/strong&gt;：与 typora 联动 - 自动上传到网络&lt;/p&gt;
+&lt;p&gt;smms：支持最大上传图片 5M&lt;/p&gt;
+&lt;p&gt;github,gitee 仓库：支持最大上传图片 1M&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/08/07/4uU1ejwqFRxS9BJ.png&#34; alt=&#34;archlinux&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;utools 图床插件&lt;br /&gt;
+连接 github：目前没有发现限制上传图片大小（没有超过 10M 的图片测试）&lt;br /&gt;
+&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/cannian-py/gallery@main/image/1628317385613-632051.png&#34; alt=&#34;这玩意6M多&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;更新时间&lt;/strong&gt;：2021 年 8 月 7 日 13:57:15&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;直接 gitee 上传图片到 markdown 下使用&lt;/p&gt;
+&lt;p&gt;注意：&lt;img data-src=&#34;https://i.loli.net/2021/08/08/VOR6B7WZPlzcIug.png&#34; alt=&#34;w&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;blob 需要修改为&lt;strong&gt; raw&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt; 如下图所示&lt;/strong&gt;：&lt;br /&gt;
+&lt;img data-src=&#34;https://gitee.com/obsidianlyg/gallery/raw/master/image/1621872400166.jpeg&#34; alt=&#34;x&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;更新时间&lt;/strong&gt;：2021 年 8 月 8 日 13:47:33&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9waWMuZ2ltaG95LmNvbS8=&#34;&gt;Gimhoy&lt;/span&gt; (需要登录微博)&lt;/p&gt;
+&lt;p&gt;只允许上传 5MB 以内 PNG/JPG/GIF 图片！&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://tva1.sinaimg.cn/large/0077C2pWly8gxq63b5l42j30d607nglo.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;更新时间：2021 年 12 月 25 日&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        <category term="使用测试" scheme="http://obsidianlyg.gitee.io/categories/usetest/" />
+        <category term="图床的测试" scheme="http://obsidianlyg.gitee.io/categories/usetest/test-img/" />
+        <updated>2021-12-25T08:54:55.000Z</updated>
+    </entry>
     <entry>
         <id>http://obsidianlyg.gitee.io/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</id>
         <title>Windows快捷键使用</title>
@@ -2314,13 +2387,5 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ligula justo, lobortis sit amet semper vel, dignissim sit amet libero. Praesent ac tempus ligula. Maecenas at gravida odio. Etiam tristique volutpat lacus eu faucibus. Donec non tempus arcu. Phasellus adipiscing, mauris nec mollis egestas, ipsum nunc auctor velit, et rhoncus lorem ipsum at ante. Praesent et sem in velit volutpat auctor. Duis vel mauris nulla. Maecenas mattis interdum ante, quis sagittis nibh cursus et. Nulla facilisi. Morbi convallis gravida tortor, ut fermentum enim gravida et. Nunc vel dictum nisl, non ultrices libero. Proin vestibulum felis eget orci consectetur lobortis. Vestibulum augue nulla, iaculis vitae augue vehicula, dignissim ultrices libero. Sed imperdiet urna et quam ultrices tincidunt nec ac magna. Etiam vel pharetra elit.&lt;/p&gt;
 </content>
         <updated>2013-12-24T16:14:39.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://obsidianlyg.gitee.io/link-post-without-title/</id>
-        <title>谷歌网址</title>
-        <link rel="alternate" href="http://obsidianlyg.gitee.io/link-post-without-title/"/>
-        <content type="html">&lt;p&gt;This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
-</content>
-        <updated>2013-12-24T15:44:13.000Z</updated>
     </entry>
 </feed>
