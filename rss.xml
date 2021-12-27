@@ -3,8 +3,8 @@
     <channel>
         <title>回梦游春</title>
         <subtitle></subtitle>
-        <icon>http://obsidianlyg.gitee.io/images/favicon.ico</icon>
-        <link>http://obsidianlyg.gitee.io</link>
+        <icon>http://121.41.227.139/images/favicon.ico</icon>
+        <link>http://121.41.227.139</link>
         <author>
           <name>Obsidian</name>
         </author>
@@ -13,11 +13,11 @@
         <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
         <lastBuildDate>Mon, 27 Dec 2021 16:54:55 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
             <title>snap的安装与使用</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;snap的安装与使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#snap的安装与使用&#34;&gt;#&lt;/a&gt; snap 的安装与使用&lt;/h1&gt;
 &lt;h3 id=&#34;依次执行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依次执行&#34;&gt;#&lt;/a&gt; &lt;strong&gt;依次执行&lt;/strong&gt;&lt;/h3&gt;
@@ -35,11 +35,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/ArcoLinux/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/ArcoLinux/</guid>
             <title>arch衍生版arcolinux</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/ArcoLinux/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/ArcoLinux/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;arcolinux&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arcolinux&#34;&gt;#&lt;/a&gt; ArcoLinux&lt;/h1&gt;
 &lt;p&gt;super+shfit+a，程序启动窗口&lt;/p&gt;
@@ -52,11 +52,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</guid>
             <title>选择字体</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;选择字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择字体&#34;&gt;#&lt;/a&gt; 选择字体&lt;/h1&gt;
 &lt;p&gt;vim ~/.config/fontconfig/fonts.conf&lt;/p&gt;
@@ -65,11 +65,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/vim/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/vim/</guid>
             <title>vim</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/vim/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/vim/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;vim&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vim&#34;&gt;#&lt;/a&gt; vim&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVhbnlpZmVuZy5jb20vYmxvZy8yMDE4LzA5L3ZpbXJjLmh0bWw=&#34;&gt;https://www.ruanyifeng.com/blog/2018/09/vimrc.html&lt;/span&gt;&lt;/p&gt;
@@ -172,11 +172,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</guid>
             <title>vim乱码问题</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;解决vim中文乱码问题外加基本配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决vim中文乱码问题外加基本配置&#34;&gt;#&lt;/a&gt; 解决 vim 中文乱码问题外加基本配置&lt;/h1&gt;
 &lt;p&gt;vim ~/.vimrc&lt;br /&gt;
@@ -190,11 +190,11 @@ set nu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/WallPaper/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/WallPaper/</guid>
             <title>壁纸网站</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/WallPaper/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/WallPaper/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;wallpapers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#wallpapers&#34;&gt;#&lt;/a&gt; WallPapers&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxoYXZlbi5jYy8=&#34;&gt;wallhaven.cc&lt;/span&gt;&lt;/p&gt;
@@ -209,11 +209,11 @@ set nu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/maven/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/maven/</guid>
             <title>arch中的maven配置</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/maven/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/maven/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;maven&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#maven&#34;&gt;#&lt;/a&gt; maven&lt;/h1&gt;
 &lt;p&gt;wget &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXJyb3JzLnR1bmEudHNpbmdodWEuZWR1LmNuL2FwYWNoZS9tYXZlbi9tYXZlbi0zLzMuNS40L2JpbmFyaWVzL2FwYWNoZS1tYXZlbi0zLjUuNC1iaW4udGFyLmd6&#34;&gt;https://mirrors.tuna.tsinghua.edu.cn/apache/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz&lt;/span&gt;&lt;/p&gt;
@@ -228,11 +228,11 @@ set nu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
             <title>ranger常用命令</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;ranger常用命令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ranger常用命令&#34;&gt;#&lt;/a&gt; ranger 常用命令&lt;/h1&gt;
 &lt;p&gt;生成配置文件&lt;/p&gt;
@@ -277,11 +277,11 @@ set nu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</guid>
             <title>arch换源</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;arch换源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arch换源&#34;&gt;#&lt;/a&gt; arch 换源&lt;/h1&gt;
 &lt;p&gt;sudo wget -O /etc/pacman.d/mirrorlist &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYXJjaGxpbnV4Lm9yZy9taXJyb3JsaXN0L2FsbC8=&#34;&gt;https://www.archlinux.org/mirrorlist/all/&lt;/span&gt;&lt;br /&gt;
@@ -322,11 +322,11 @@ pacman -S pacman-mirrorlist# 可以不写&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</guid>
             <title>arch个人笔记</title>
-            <link>http://obsidianlyg.gitee.io/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</link>
-            <category term="arch个人笔记" scheme="http://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="http://obsidianlyg.gitee.io/tags/arch/" />
+            <link>http://121.41.227.139/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</link>
+            <category term="arch个人笔记" scheme="http://121.41.227.139/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="http://121.41.227.139/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 12:53:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;arch个人笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arch个人笔记&#34;&gt;#&lt;/a&gt; Arch 个人笔记&lt;/h1&gt;
 &lt;h2 id=&#34;arch换源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arch换源&#34;&gt;#&lt;/a&gt; &lt;a href=&#34;/Arch/Arch/arch%E6%8D%A2%E6%BA%90/&#34;&gt;arch 换源&lt;/a&gt;&lt;/h2&gt;
@@ -407,11 +407,11 @@ pacman -S pacman-mirrorlist# 可以不写&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</guid>
+            <guid isPermalink="true">http://121.41.227.139/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</guid>
             <title>各种图床简介</title>
-            <link>http://obsidianlyg.gitee.io/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</link>
-            <category term="使用测试" scheme="http://obsidianlyg.gitee.io/categories/usetest/" />
-            <category term="图床的测试" scheme="http://obsidianlyg.gitee.io/categories/usetest/test-img/" />
+            <link>http://121.41.227.139/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</link>
+            <category term="使用测试" scheme="http://121.41.227.139/categories/usetest/" />
+            <category term="图床的测试" scheme="http://121.41.227.139/categories/usetest/test-img/" />
             <pubDate>Sat, 25 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWd0dS5jb20vaS9mZUFrbTg=&#34;&gt;路过图床 (web)&lt;/span&gt;&lt;/p&gt;
@@ -481,9 +481,9 @@ pacman -S pacman-mirrorlist# 可以不写&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</guid>
+            <guid isPermalink="true">http://121.41.227.139/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</guid>
             <title>Windows快捷键使用</title>
-            <link>http://obsidianlyg.gitee.io/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</link>
+            <link>http://121.41.227.139/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</link>
             <pubDate>Sat, 25 Dec 2021 15:19:03 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;快捷键&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#快捷键&#34;&gt;#&lt;/a&gt; 快捷键&lt;/h2&gt;
 &lt;ul&gt;
@@ -591,11 +591,11 @@ CMD取消代理：netsh winhttp reset proxy
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/computer-science/mongo/mongodb/</guid>
+            <guid isPermalink="true">http://121.41.227.139/computer-science/mongo/mongodb/</guid>
             <title>MongoDB</title>
-            <link>http://obsidianlyg.gitee.io/computer-science/mongo/mongodb/</link>
-            <category term="计算机科学" scheme="http://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="MongoDB" scheme="http://obsidianlyg.gitee.io/categories/computer-science/mongo/" />
+            <link>http://121.41.227.139/computer-science/mongo/mongodb/</link>
+            <category term="计算机科学" scheme="http://121.41.227.139/categories/computer-science/" />
+            <category term="MongoDB" scheme="http://121.41.227.139/categories/computer-science/mongo/" />
             <pubDate>Fri, 24 Dec 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;mongodb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mongodb&#34;&gt;#&lt;/a&gt; MongoDB&lt;/h1&gt;
 &lt;ul&gt;
@@ -953,10 +953,10 @@ CMD取消代理：netsh winhttp reset proxy
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/about/</guid>
+            <guid isPermalink="true">http://121.41.227.139/about/</guid>
             <title>关于个人</title>
-            <link>http://obsidianlyg.gitee.io/about/</link>
-            <category term="about" scheme="http://obsidianlyg.gitee.io/tags/about/" />
+            <link>http://121.41.227.139/about/</link>
+            <category term="about" scheme="http://121.41.227.139/tags/about/" />
             <pubDate>Fri, 24 Dec 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;本鱼&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本鱼&#34;&gt;#&lt;/a&gt; 本鱼&lt;/h1&gt;
 &lt;p&gt;昵称：鲈鱼&lt;/p&gt;
@@ -967,9 +967,9 @@ CMD取消代理：netsh winhttp reset proxy
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/hello-world/</guid>
+            <guid isPermalink="true">http://121.41.227.139/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://obsidianlyg.gitee.io/hello-world/</link>
+            <link>http://121.41.227.139/hello-world/</link>
             <pubDate>Thu, 23 Dec 2021 20:43:15 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -985,14 +985,14 @@ CMD取消代理：netsh winhttp reset proxy
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h &lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo algolia&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/special/</guid>
+            <guid isPermalink="true">http://121.41.227.139/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
-            <link>http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/special/</link>
-            <category term="计算机科学" scheme="http://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="教程配置" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="http://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>http://121.41.227.139/computer-science/note/theme-shoka-doc/special/</link>
+            <category term="计算机科学" scheme="http://121.41.227.139/categories/computer-science/" />
+            <category term="教程配置" scheme="http://121.41.227.139/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="http://121.41.227.139/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="http://121.41.227.139/tags/Hexo/" />
+            <category term="教程" scheme="http://121.41.227.139/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;&lt;strong&gt;🦄特殊功能&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1557,14 +1557,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 &lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;title: 流程图显示&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mermaid: true&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;graph LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A [Square Rect] -- Link text --&amp;gt; B ((Circle))&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A --&amp;gt; C (Round Rect)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B --&amp;gt; D &amp;#123;Rhombus&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C --&amp;gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sequenceDiagram&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    loop Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        alt is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Not so good :(&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        else is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        opt Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;graph&lt;/span&gt; LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A&lt;span class=&#34;token text string&#34;&gt;[Square Rect]&lt;/span&gt; &lt;span class=&#34;token inter-arrow-label&#34;&gt;&lt;span class=&#34;token arrow-head arrow operator&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;token label property&#34;&gt;Link text&lt;/span&gt; &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt;&lt;/span&gt; B&lt;span class=&#34;token text string&#34;&gt;((Circle))&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; C&lt;span class=&#34;token text string&#34;&gt;(Round Rect)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;span class=&#34;token text string&#34;&gt;&amp;#123;Rhombus&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;sequenceDiagram&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;loop&lt;/span&gt; Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Bob&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;alt&lt;/span&gt; is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Not so good &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt; is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;opt&lt;/span&gt; Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/display/</guid>
+            <guid isPermalink="true">http://121.41.227.139/computer-science/note/theme-shoka-doc/display/</guid>
             <title>Step.3 界面显示</title>
-            <link>http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/display/</link>
-            <category term="计算机科学" scheme="http://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="教程配置" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="http://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>http://121.41.227.139/computer-science/note/theme-shoka-doc/display/</link>
+            <category term="计算机科学" scheme="http://121.41.227.139/categories/computer-science/" />
+            <category term="教程配置" scheme="http://121.41.227.139/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="http://121.41.227.139/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="http://121.41.227.139/tags/Hexo/" />
+            <category term="教程" scheme="http://121.41.227.139/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;&lt;strong&gt;🌈界面显示&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -1701,14 +1701,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/config/</guid>
+            <guid isPermalink="true">http://121.41.227.139/computer-science/note/theme-shoka-doc/config/</guid>
             <title>Step.2 基本配置</title>
-            <link>http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/config/</link>
-            <category term="计算机科学" scheme="http://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="教程配置" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="http://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>http://121.41.227.139/computer-science/note/theme-shoka-doc/config/</link>
+            <category term="计算机科学" scheme="http://121.41.227.139/categories/computer-science/" />
+            <category term="教程配置" scheme="http://121.41.227.139/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="http://121.41.227.139/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="http://121.41.227.139/tags/Hexo/" />
+            <category term="教程" scheme="http://121.41.227.139/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -1863,14 +1863,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/dependents/</guid>
+            <guid isPermalink="true">http://121.41.227.139/computer-science/note/theme-shoka-doc/dependents/</guid>
             <title>Step.1 依赖插件</title>
-            <link>http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/dependents/</link>
-            <category term="计算机科学" scheme="http://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="教程配置" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="http://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>http://121.41.227.139/computer-science/note/theme-shoka-doc/dependents/</link>
+            <category term="计算机科学" scheme="http://121.41.227.139/categories/computer-science/" />
+            <category term="教程配置" scheme="http://121.41.227.139/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="http://121.41.227.139/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="http://121.41.227.139/tags/Hexo/" />
+            <category term="教程" scheme="http://121.41.227.139/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;&lt;strong&gt;💌依赖插件&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -1966,14 +1966,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;keywords&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;#站点关键词，用 “,” 分隔&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;feed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;limit&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;20&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;order_by&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;-date&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;tag_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;category_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;rss&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/rss.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;rss.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;atom&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/atom.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;atom.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;jsonFeed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/json.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;feed.json&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/</guid>
+            <guid isPermalink="true">http://121.41.227.139/computer-science/note/theme-shoka-doc/</guid>
             <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-            <link>http://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/</link>
-            <category term="计算机科学" scheme="http://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="教程配置" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="http://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="http://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>http://121.41.227.139/computer-science/note/theme-shoka-doc/</link>
+            <category term="计算机科学" scheme="http://121.41.227.139/categories/computer-science/" />
+            <category term="教程配置" scheme="http://121.41.227.139/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="http://121.41.227.139/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="http://121.41.227.139/tags/Hexo/" />
+            <category term="教程" scheme="http://121.41.227.139/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
