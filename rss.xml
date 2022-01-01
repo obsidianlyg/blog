@@ -384,7 +384,7 @@ pacman -S pacman-mirrorlist# 可以不写&lt;/p&gt;
 &lt;p&gt;查看指定程序名的 pid： &lt;code&gt;pgrep -l redis&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;查看 redis 的进程是否开启： &lt;code&gt;ps -ef | grep redis&lt;/code&gt;&lt;/p&gt;
 &lt;h2 id=&#34;查看列表型系统版本信息lsb_release-a&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看列表型系统版本信息lsb_release-a&#34;&gt;#&lt;/a&gt; 查看列表型系统版本信息：lsb_release -a&lt;/h2&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/obsidianlyg/gallery/raw/master/image//leasea.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/obsidianlyg/gallery/raw/master/image//leasea.png&#34; alt=&#34;leasea.png&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;配置环境变量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#配置环境变量&#34;&gt;#&lt;/a&gt; 配置环境变量&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;1、直接在命令行中设置&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;PATH# PATH=$PATH:/usr/local/apache/bin&lt;/code&gt;&lt;/p&gt;
