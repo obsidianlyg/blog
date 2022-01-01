@@ -258,7 +258,7 @@ set nu&lt;/p&gt;
         <title>arch中的maven配置</title>
         <link rel="alternate" href="https://obsidianlyg.gitee.io/Arch/Arch/maven/"/>
         <content type="html">&lt;h1 id=&#34;maven&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#maven&#34;&gt;#&lt;/a&gt; maven&lt;/h1&gt;
-&lt;p&gt;wget &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXJyb3JzLnR1bmEudHNpbmdodWEuZWR1LmNuL2FwYWNoZS9tYXZlbi9tYXZlbi0zLzMuNS40L2JpbmFyaWVzL2FwYWNoZS1tYXZlbi0zLjUuNC1iaW4udGFyLmd6&#34;&gt;https://mirrors.tuna.tsinghua.edu.cn/apache/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;wget &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taXJyb3JzLnR1bmEudHNpbmdodWEuZWR1LmNuL2FwYWNoZS9tYXZlbi9tYXZlbi0zLzMuNS40L2JpbmFyaWVzL2FwYWNoZS1tYXZlbi0zLjUuNC1iaW4udGFyLmd6&#34;&gt;apache-maven-3.5.4-bin.tar.gz&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;tar -xzvf apache-maven-3.5.4-bin.tar.gz -C /usr/local&lt;/p&gt;
 &lt;p&gt;cd /usr/local&lt;/p&gt;
 &lt;p&gt;ln -s apache-maven-3.5.4 maven&lt;/p&gt;
