@@ -31,7 +31,6 @@
 &lt;p&gt;&lt;code&gt;sudo snap install snap-store&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;目前 snap 官方给出支持以下发行版的 linux： Arch Linux CentOS Debian Deepin Elementary OS Fedora GalliumOS KDE Neon Kubuntu Linux Mint Lubuntu Manjaro Linux openSUSE Parrot Security OS Raspbian Solus Ubuntu Xubuntu Zorin OS&lt;/p&gt;
 &lt;p&gt;理论上如果你的 linux 是基于以上某个发行版本的话应该也可以使用相同的方式安装 之后你就可以使用  sudo snap install packageName 的命令来安装应用了，如果安装了 snap store 的话可以打开 snap store 来选择安装 如果没有安装 snap store 的话可以到 snap store 网页中选择自己想要下载的应用，然后选择自己想要或喜欢的应用点击图标进入详情页，在详情页中点击 install 就可以看到安装的命令了，复制到终端执行即可。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vWU1hc3Rlci9wLzEwNzgxMTQzLmh0bWw=&#34;&gt;相关介绍&lt;/span&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
