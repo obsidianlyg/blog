@@ -3,8 +3,8 @@
     <channel>
         <title>回梦游春</title>
         <subtitle>是小悠呀</subtitle>
-        <icon>https://obsidianlyg.gitee.io/images/favicon.ico</icon>
-        <link>https://obsidianlyg.gitee.io</link>
+        <icon>https://obsidianlyg.github.io/blog/images/favicon.ico</icon>
+        <link>https://obsidianlyg.github.io/blog</link>
         <author>
           <name>obsidianlyg</name>
         </author>
@@ -13,10 +13,10 @@
         <pubDate>Fri, 21 Jan 2022 00:14:39 +0800</pubDate>
         <lastBuildDate>Fri, 21 Jan 2022 00:14:39 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Note/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%B5%8B%E8%AF%95/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Note/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%B5%8B%E8%AF%95/</guid>
             <title>移动应用测试</title>
-            <link>https://obsidianlyg.gitee.io/Note/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%B5%8B%E8%AF%95/</link>
-            <category term="Python" scheme="https://obsidianlyg.gitee.io/tags/Python/" />
+            <link>https://obsidianlyg.github.io/blog/Note/%E7%A7%BB%E5%8A%A8%E5%BA%94%E7%94%A8%E6%B5%8B%E8%AF%95/</link>
+            <category term="Python" scheme="https://obsidianlyg.github.io/blog/tags/Python/" />
             <pubDate>Fri, 21 Jan 2022 00:14:39 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;移动应用测试&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#移动应用测试&#34;&gt;#&lt;/a&gt; 移动应用测试&lt;/h1&gt;
 &lt;h2 id=&#34;查看包名&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#查看包名&#34;&gt;#&lt;/a&gt; 查看包名：&lt;/h2&gt;
@@ -124,49 +124,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
-            <title>snap的安装与使用</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
-            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;snap的安装与使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#snap的安装与使用&#34;&gt;#&lt;/a&gt; snap 的安装与使用&lt;/h1&gt;
-&lt;h3 id=&#34;依次执行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依次执行&#34;&gt;#&lt;/a&gt; &lt;strong&gt;依次执行&lt;/strong&gt;&lt;/h3&gt;
-&lt;h3 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; &lt;strong&gt;安装&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;sudo pacman -S snapd&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;启动并设置开启启动并立即启动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启动并设置开启启动并立即启动&#34;&gt;#&lt;/a&gt; &lt;strong&gt;启动并设置开启启动并立即启动&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;sudo systemctl enable --now snapd.socket&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;添加-snap-的命令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#添加-snap-的命令&#34;&gt;#&lt;/a&gt; &lt;strong&gt;添加 snap 的命令&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;sudo ln -s /var/lib/snapd/snap /snap&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;安装完了-snap-后如果你用的是桌面系统那么你可以下载安装-snap-store-来进行-gui-界面管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装完了-snap-后如果你用的是桌面系统那么你可以下载安装-snap-store-来进行-gui-界面管理&#34;&gt;#&lt;/a&gt; &lt;strong&gt;安装完了 snap 后，如果你用的是桌面系统，那么你可以下载安装 snap store 来进行 GUI 界面管理&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;sudo snap install snap-store&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;目前 snap 官方给出支持以下发行版的 linux： Arch Linux CentOS Debian Deepin Elementary OS Fedora GalliumOS KDE Neon Kubuntu Linux Mint Lubuntu Manjaro Linux openSUSE Parrot Security OS Raspbian Solus Ubuntu Xubuntu Zorin OS&lt;/p&gt;
-&lt;p&gt;理论上如果你的 linux 是基于以上某个发行版本的话应该也可以使用相同的方式安装 之后你就可以使用  sudo snap install packageName 的命令来安装应用了，如果安装了 snap store 的话可以打开 snap store 来选择安装 如果没有安装 snap store 的话可以到 snap store 网页中选择自己想要下载的应用，然后选择自己想要或喜欢的应用点击图标进入详情页，在详情页中点击 install 就可以看到安装的命令了，复制到终端执行即可。&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/ArcoLinux/</guid>
-            <title>arch衍生版arcolinux</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/ArcoLinux/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
-            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;arcolinux&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arcolinux&#34;&gt;#&lt;/a&gt; ArcoLinux&lt;/h1&gt;
-&lt;p&gt;super+shfit+a，程序启动窗口&lt;/p&gt;
-&lt;p&gt;super+Q，退出&lt;/p&gt;
-&lt;p&gt;super + 鼠标单击，可以拖动窗口&lt;/p&gt;
-&lt;p&gt;super+Enter，打开默认 urxvt 终端模拟器，附带三个，termite,xfec 自带终端和 alacritt&lt;/p&gt;
-&lt;p&gt;Super+Space，修改当前窗口布局&lt;/p&gt;
-&lt;p&gt;软件包管理工具有 pacman,pamac,yay&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/obsidianlyg/gallery/raw/master/image//2021-08-10_08-27.png&#34; alt=&#34;ArcoLinux%20dbdbb4c808024da189a08d644815664f/2021-08-10_08-27.png&#34; /&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/WallPaper/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/WallPaper/</guid>
             <title>壁纸网站</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/WallPaper/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/WallPaper/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;wallpapers&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#wallpapers&#34;&gt;#&lt;/a&gt; WallPapers&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxoYXZlbi5jYy8=&#34;&gt;wallhaven.cc&lt;/span&gt;&lt;/p&gt;
@@ -181,11 +143,41 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/ArcoLinux/</guid>
+            <title>arch衍生版arcolinux</title>
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/ArcoLinux/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
+            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;arcolinux&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arcolinux&#34;&gt;#&lt;/a&gt; ArcoLinux&lt;/h1&gt;
+&lt;p&gt;super+shfit+a，程序启动窗口&lt;/p&gt;
+&lt;p&gt;super+Q，退出&lt;/p&gt;
+&lt;p&gt;super + 鼠标单击，可以拖动窗口&lt;/p&gt;
+&lt;p&gt;super+Enter，打开默认 urxvt 终端模拟器，附带三个，termite,xfec 自带终端和 alacritt&lt;/p&gt;
+&lt;p&gt;Super+Space，修改当前窗口布局&lt;/p&gt;
+&lt;p&gt;软件包管理工具有 pacman,pamac,yay&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://gitee.com/obsidianlyg/gallery/raw/master/image//2021-08-10_08-27.png&#34; alt=&#34;ArcoLinux%20dbdbb4c808024da189a08d644815664f/2021-08-10_08-27.png&#34; /&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/Linux%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</guid>
+            <title>Linux选择字体</title>
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/Linux%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
+            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;选择字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择字体&#34;&gt;#&lt;/a&gt; 选择字体&lt;/h1&gt;
+&lt;p&gt;vim ~/.config/fontconfig/fonts.conf&lt;/p&gt;
+&lt;p&gt;在 family 中设置字体的名称（也就是 archwiki 中所说的名字）&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;alias&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;serif&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;prefer&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;你喜欢的拉丁衬线字体名称&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;你的中文衬线字体名称&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;prefer&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;alias&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;修改字体配置后可以用 fc-match -a monospace | head 检查字体选择设置是否正确.&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</guid>
             <title>arch换源</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/arch%E6%8D%A2%E6%BA%90/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;arch换源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arch换源&#34;&gt;#&lt;/a&gt; arch 换源&lt;/h1&gt;
 &lt;p&gt;sudo wget -O /etc/pacman.d/mirrorlist &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYXJjaGxpbnV4Lm9yZy9taXJyb3JsaXN0L2FsbC8=&#34;&gt;https://www.archlinux.org/mirrorlist/all/&lt;/span&gt;&lt;br /&gt;
@@ -226,11 +218,11 @@ pacman -S pacman-mirrorlist# 可以不写&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
             <title>ranger常用命令</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/ranger%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;ranger常用命令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ranger常用命令&#34;&gt;#&lt;/a&gt; ranger 常用命令&lt;/h1&gt;
 &lt;p&gt;生成配置文件&lt;/p&gt;
@@ -275,42 +267,11 @@ pacman -S pacman-mirrorlist# 可以不写&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/Linux%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</guid>
-            <title>Linux选择字体</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/Linux%E9%80%89%E6%8B%A9%E5%AD%97%E4%BD%93/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
-            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;选择字体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择字体&#34;&gt;#&lt;/a&gt; 选择字体&lt;/h1&gt;
-&lt;p&gt;vim ~/.config/fontconfig/fonts.conf&lt;/p&gt;
-&lt;p&gt;在 family 中设置字体的名称（也就是 archwiki 中所说的名字）&lt;/p&gt;
-&lt;figure class=&#34;highlight html&#34;&gt;&lt;figcaption data-lang=&#34;HTML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;alias&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;serif&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;prefer&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;你喜欢的拉丁衬线字体名称&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;     &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;你的中文衬线字体名称&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;family&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;   &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;prefer&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt; &lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token tag&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;lt;/&lt;/span&gt;alias&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;修改字体配置后可以用 fc-match -a monospace | head 检查字体选择设置是否正确.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</guid>
-            <title>vim乱码问题</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
-            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;解决vim中文乱码问题外加基本配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决vim中文乱码问题外加基本配置&#34;&gt;#&lt;/a&gt; 解决 vim 中文乱码问题外加基本配置&lt;/h1&gt;
-&lt;p&gt;vim ~/.vimrc&lt;br /&gt;
-set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1&lt;br /&gt;
-set enc=utf8&lt;br /&gt;
-set fencs=utf8,gbk,gb2312,gb18030&lt;br /&gt;
-set nu&lt;/p&gt;
-&lt;p&gt;set mouse=a&lt;/p&gt;
-&lt;p&gt;&amp;quot; 显示颜色&lt;/p&gt;
-&lt;p&gt;set t_Co=256&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch/vim/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/vim/</guid>
             <title>vim</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch/vim/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/vim/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;vim&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vim&#34;&gt;#&lt;/a&gt; vim&lt;/h1&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucnVhbnlpZmVuZy5jb20vYmxvZy8yMDE4LzA5L3ZpbXJjLmh0bWw=&#34;&gt;https://www.ruanyifeng.com/blog/2018/09/vimrc.html&lt;/span&gt;&lt;/p&gt;
@@ -413,11 +374,50 @@ set nu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+            <title>snap的安装与使用</title>
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/snap%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
+            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;snap的安装与使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#snap的安装与使用&#34;&gt;#&lt;/a&gt; snap 的安装与使用&lt;/h1&gt;
+&lt;h3 id=&#34;依次执行&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#依次执行&#34;&gt;#&lt;/a&gt; &lt;strong&gt;依次执行&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;安装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装&#34;&gt;#&lt;/a&gt; &lt;strong&gt;安装&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;sudo pacman -S snapd&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;启动并设置开启启动并立即启动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#启动并设置开启启动并立即启动&#34;&gt;#&lt;/a&gt; &lt;strong&gt;启动并设置开启启动并立即启动&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;sudo systemctl enable --now snapd.socket&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;添加-snap-的命令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#添加-snap-的命令&#34;&gt;#&lt;/a&gt; &lt;strong&gt;添加 snap 的命令&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;sudo ln -s /var/lib/snapd/snap /snap&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;安装完了-snap-后如果你用的是桌面系统那么你可以下载安装-snap-store-来进行-gui-界面管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安装完了-snap-后如果你用的是桌面系统那么你可以下载安装-snap-store-来进行-gui-界面管理&#34;&gt;#&lt;/a&gt; &lt;strong&gt;安装完了 snap 后，如果你用的是桌面系统，那么你可以下载安装 snap store 来进行 GUI 界面管理&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;sudo snap install snap-store&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;目前 snap 官方给出支持以下发行版的 linux： Arch Linux CentOS Debian Deepin Elementary OS Fedora GalliumOS KDE Neon Kubuntu Linux Mint Lubuntu Manjaro Linux openSUSE Parrot Security OS Raspbian Solus Ubuntu Xubuntu Zorin OS&lt;/p&gt;
+&lt;p&gt;理论上如果你的 linux 是基于以上某个发行版本的话应该也可以使用相同的方式安装 之后你就可以使用  sudo snap install packageName 的命令来安装应用了，如果安装了 snap store 的话可以打开 snap store 来选择安装 如果没有安装 snap store 的话可以到 snap store 网页中选择自己想要下载的应用，然后选择自己想要或喜欢的应用点击图标进入详情页，在详情页中点击 install 就可以看到安装的命令了，复制到终端执行即可。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</guid>
+            <title>vim乱码问题</title>
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch/%E8%A7%A3%E5%86%B3vim%E4%B8%AD%E6%96%87%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98%E5%A4%96%E5%8A%A0%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
+            <pubDate>Mon, 27 Dec 2021 16:54:55 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;解决vim中文乱码问题外加基本配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#解决vim中文乱码问题外加基本配置&#34;&gt;#&lt;/a&gt; 解决 vim 中文乱码问题外加基本配置&lt;/h1&gt;
+&lt;p&gt;vim ~/.vimrc&lt;br /&gt;
+set fileencodings=utf-8,gb2312,gb18030,gbk,ucs-bom,cp936,latin1&lt;br /&gt;
+set enc=utf8&lt;br /&gt;
+set fencs=utf8,gbk,gb2312,gb18030&lt;br /&gt;
+set nu&lt;/p&gt;
+&lt;p&gt;set mouse=a&lt;/p&gt;
+&lt;p&gt;&amp;quot; 显示颜色&lt;/p&gt;
+&lt;p&gt;set t_Co=256&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</guid>
             <title>arch个人笔记</title>
-            <link>https://obsidianlyg.gitee.io/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</link>
-            <category term="arch个人笔记" scheme="https://obsidianlyg.gitee.io/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
-            <category term="arch" scheme="https://obsidianlyg.gitee.io/tags/arch/" />
+            <link>https://obsidianlyg.github.io/blog/Arch/Arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/</link>
+            <category term="arch个人笔记" scheme="https://obsidianlyg.github.io/blog/categories/arch%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0/" />
+            <category term="arch" scheme="https://obsidianlyg.github.io/blog/tags/arch/" />
             <pubDate>Mon, 27 Dec 2021 12:53:55 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;arch个人笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arch个人笔记&#34;&gt;#&lt;/a&gt; Arch 个人笔记&lt;/h1&gt;
 &lt;h2 id=&#34;arch换源&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#arch换源&#34;&gt;#&lt;/a&gt; &lt;a href=&#34;/Arch/Arch/arch%E6%8D%A2%E6%BA%90/&#34;&gt;arch 换源&lt;/a&gt;&lt;/h2&gt;
@@ -497,11 +497,11 @@ set nu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/usetest/mktest/hello-world/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/usetest/mktest/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://obsidianlyg.gitee.io/usetest/mktest/hello-world/</link>
-            <category term="使用测试" scheme="https://obsidianlyg.gitee.io/categories/usetest/" />
-            <category term="markdown测试" scheme="https://obsidianlyg.gitee.io/categories/usetest/mktest/" />
+            <link>https://obsidianlyg.github.io/blog/usetest/mktest/hello-world/</link>
+            <category term="使用测试" scheme="https://obsidianlyg.github.io/blog/categories/usetest/" />
+            <category term="markdown测试" scheme="https://obsidianlyg.github.io/blog/categories/usetest/mktest/" />
             <pubDate>Sun, 26 Dec 2021 22:46:49 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -517,11 +517,11 @@ set nu&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h &lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo algolia&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</guid>
             <title>各种图床简介</title>
-            <link>https://obsidianlyg.gitee.io/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</link>
-            <category term="使用测试" scheme="https://obsidianlyg.gitee.io/categories/usetest/" />
-            <category term="图床的测试" scheme="https://obsidianlyg.gitee.io/categories/usetest/test-img/" />
+            <link>https://obsidianlyg.github.io/blog/usetest/test-img/%E5%90%84%E7%A7%8D%E5%9B%BE%E5%BA%8A%E7%AE%80%E4%BB%8B/</link>
+            <category term="使用测试" scheme="https://obsidianlyg.github.io/blog/categories/usetest/" />
+            <category term="图床的测试" scheme="https://obsidianlyg.github.io/blog/categories/usetest/test-img/" />
             <pubDate>Sat, 25 Dec 2021 16:54:55 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWd0dS5jb20vaS9mZUFrbTg=&#34;&gt;路过图床 (web)&lt;/span&gt;&lt;/p&gt;
@@ -591,9 +591,9 @@ set nu&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</guid>
             <title>Windows快捷键使用</title>
-            <link>https://obsidianlyg.gitee.io/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</link>
+            <link>https://obsidianlyg.github.io/blog/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8/</link>
             <pubDate>Sat, 25 Dec 2021 15:19:03 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;快捷键&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#快捷键&#34;&gt;#&lt;/a&gt; 快捷键&lt;/h2&gt;
 &lt;ul&gt;
@@ -701,11 +701,11 @@ CMD取消代理：netsh winhttp reset proxy
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/computer-science/mongo/mongodb/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/computer-science/mongo/mongodb/</guid>
             <title>MongoDB</title>
-            <link>https://obsidianlyg.gitee.io/computer-science/mongo/mongodb/</link>
-            <category term="计算机科学" scheme="https://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="MongoDB" scheme="https://obsidianlyg.gitee.io/categories/computer-science/mongo/" />
+            <link>https://obsidianlyg.github.io/blog/computer-science/mongo/mongodb/</link>
+            <category term="计算机科学" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/" />
+            <category term="MongoDB" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/mongo/" />
             <pubDate>Fri, 24 Dec 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;mongodb&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mongodb&#34;&gt;#&lt;/a&gt; MongoDB&lt;/h1&gt;
 &lt;ul&gt;
@@ -1063,10 +1063,10 @@ CMD取消代理：netsh winhttp reset proxy
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/about/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/about/</guid>
             <title>关于个人</title>
-            <link>https://obsidianlyg.gitee.io/about/</link>
-            <category term="about" scheme="https://obsidianlyg.gitee.io/tags/about/" />
+            <link>https://obsidianlyg.github.io/blog/about/</link>
+            <category term="about" scheme="https://obsidianlyg.github.io/blog/tags/about/" />
             <pubDate>Fri, 24 Dec 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;本鱼&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#本鱼&#34;&gt;#&lt;/a&gt; 本鱼&lt;/h1&gt;
 &lt;p&gt;昵称：鲈鱼&lt;/p&gt;
@@ -1077,14 +1077,14 @@ CMD取消代理：netsh winhttp reset proxy
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/special/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
-            <link>https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/special/</link>
-            <category term="计算机科学" scheme="https://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="主题作者的教程配置" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="https://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/special/</link>
+            <category term="计算机科学" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/" />
+            <category term="主题作者的教程配置" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://obsidianlyg.github.io/blog/tags/Hexo/" />
+            <category term="教程" scheme="https://obsidianlyg.github.io/blog/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;&lt;strong&gt;🦄特殊功能&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1145,9 +1145,9 @@ CMD取消代理：netsh winhttp reset proxy
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
-          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;obsidian&#34;&gt;&lt;a href=&#34;http://obsidianlyg.gitee.io&#34; class=&#34;image&#34; data-background-image=&#34;/images/avatar.jpg&#34;&gt;&lt;/a&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;obsidian&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cDovL29ic2lkaWFubHlnLmdpdGVlLmlv&#34; data-background-image=&#34;/images/avatar.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
-          &lt;a href=&#34;http://obsidianlyg.gitee.io&#34; class=&#34;title&#34;&gt;回梦游春&lt;/a&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cDovL29ic2lkaWFubHlnLmdpdGVlLmlv&#34;&gt;回梦游春&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;http://obsidianlyg.gitee.io&lt;/p&gt;
           &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
@@ -1649,14 +1649,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 &lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;title: 流程图显示&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;mermaid: true&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;---&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;graph LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A [Square Rect] -- Link text --&amp;gt; B ((Circle))&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A --&amp;gt; C (Round Rect)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B --&amp;gt; D &amp;#123;Rhombus&amp;#125;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C --&amp;gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;mermaid&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;sequenceDiagram&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    loop Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice-&amp;gt;&amp;gt;Bob: Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        alt is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Not so good :(&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        else is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        opt Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob-&amp;gt;&amp;gt;Alice: Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    end&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&amp;#96;&amp;#96;&amp;#96;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;graph&lt;/span&gt; LR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A&lt;span class=&#34;token text string&#34;&gt;[Square Rect]&lt;/span&gt; &lt;span class=&#34;token inter-arrow-label&#34;&gt;&lt;span class=&#34;token arrow-head arrow operator&#34;&gt;--&lt;/span&gt; &lt;span class=&#34;token label property&#34;&gt;Link text&lt;/span&gt; &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt;&lt;/span&gt; B&lt;span class=&#34;token text string&#34;&gt;((Circle))&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    A &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; C&lt;span class=&#34;token text string&#34;&gt;(Round Rect)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    B &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;span class=&#34;token text string&#34;&gt;&amp;#123;Rhombus&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    C &lt;span class=&#34;token arrow operator&#34;&gt;--&gt;&lt;/span&gt; D&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight mermaid&#34;&gt;&lt;figcaption data-lang=&#34;mermaid&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;sequenceDiagram&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;loop&lt;/span&gt; Daily query&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        Alice&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Bob&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Hello Bob, how are you?&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;alt&lt;/span&gt; is sick&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Not so good &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;else&lt;/span&gt; is well&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Feeling fresh like a daisy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;opt&lt;/span&gt; Extra response&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            Bob&lt;span class=&#34;token arrow operator&#34;&gt;-&gt;&gt;&lt;/span&gt;Alice&lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; Thanks for asking&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;end&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/display/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/display/</guid>
             <title>Step.3 界面显示</title>
-            <link>https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/display/</link>
-            <category term="计算机科学" scheme="https://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="主题作者的教程配置" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="https://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/display/</link>
+            <category term="计算机科学" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/" />
+            <category term="主题作者的教程配置" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://obsidianlyg.github.io/blog/tags/Hexo/" />
+            <category term="教程" scheme="https://obsidianlyg.github.io/blog/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;&lt;strong&gt;🌈界面显示&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -1793,14 +1793,14 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/config/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/config/</guid>
             <title>Step.2 基本配置</title>
-            <link>https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/config/</link>
-            <category term="计算机科学" scheme="https://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="主题作者的教程配置" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="https://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/config/</link>
+            <category term="计算机科学" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/" />
+            <category term="主题作者的教程配置" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://obsidianlyg.github.io/blog/tags/Hexo/" />
+            <category term="教程" scheme="https://obsidianlyg.github.io/blog/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;💌依赖插件&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;&lt;strong&gt;📌基本配置&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -1955,14 +1955,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/dependents/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/dependents/</guid>
             <title>Step.1 依赖插件</title>
-            <link>https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/dependents/</link>
-            <category term="计算机科学" scheme="https://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="主题作者的教程配置" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="https://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/dependents/</link>
+            <category term="计算机科学" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/" />
+            <category term="主题作者的教程配置" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://obsidianlyg.github.io/blog/tags/Hexo/" />
+            <category term="教程" scheme="https://obsidianlyg.github.io/blog/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;/computer-science/note/theme-shoka-doc/&#34;&gt;🚀快速开始&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/dependents/&#34;&gt;&lt;strong&gt;💌依赖插件&lt;/strong&gt;&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/config/&#34;&gt;📌基本配置&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/display/&#34;&gt;🌈界面显示&lt;/a&gt; - &lt;a href=&#34;/computer-science/note/theme-shoka-doc/special/&#34;&gt;🦄特殊功能&lt;/a&gt;&lt;/p&gt;
@@ -2058,14 +2058,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;keywords&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;#站点关键词，用 “,” 分隔&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;feed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;limit&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;20&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;order_by&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;-date&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;tag_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;category_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;rss&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/rss.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;rss.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;atom&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/atom.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;atom.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;jsonFeed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/json.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;feed.json&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/</guid>
+            <guid isPermalink="true">https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/</guid>
             <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-            <link>https://obsidianlyg.gitee.io/computer-science/note/theme-shoka-doc/</link>
-            <category term="计算机科学" scheme="https://obsidianlyg.gitee.io/categories/computer-science/" />
-            <category term="主题作者的教程配置" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.gitee.io/categories/computer-science/note/theme-shoka-doc/" />
-            <category term="Hexo" scheme="https://obsidianlyg.gitee.io/tags/Hexo/" />
-            <category term="教程" scheme="https://obsidianlyg.gitee.io/tags/%E6%95%99%E7%A8%8B/" />
+            <link>https://obsidianlyg.github.io/blog/computer-science/note/theme-shoka-doc/</link>
+            <category term="计算机科学" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/" />
+            <category term="主题作者的教程配置" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/" />
+            <category term="Theme Shoka Documentation" scheme="https://obsidianlyg.github.io/blog/categories/computer-science/note/theme-shoka-doc/" />
+            <category term="Hexo" scheme="https://obsidianlyg.github.io/blog/tags/Hexo/" />
+            <category term="教程" scheme="https://obsidianlyg.github.io/blog/tags/%E6%95%99%E7%A8%8B/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
